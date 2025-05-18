@@ -1,0 +1,2244 @@
+[
+  {
+    "Company": "PakLink",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2356.69,
+    "Advertising": 795,
+    "MonthlySales": {
+      "May": 923,
+      "Apr": 542,
+      "Jul": 391,
+      "Jun": 837,
+      "Mar": 845,
+      "Jan": 540
+    },
+    "ConnectedTo": [
+      "GrainLine"
+    ]
+  },
+  {
+    "Company": "TranzPak",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2015.97,
+    "Advertising": 616,
+    "MonthlySales": {
+      "Jan": 263,
+      "Dec": 292,
+      "Apr": 412,
+      "Jun": 124,
+      "Feb": 488,
+      "Nov": 755,
+      "Sep": 363
+    },
+    "ConnectedTo": [
+      "PrimeEdge",
+      "PakIT",
+      "CitySolutions",
+      "UrbanTex",
+      "PakSolar"
+    ]
+  },
+  {
+    "Company": "PakIT",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 2005.39,
+    "Advertising": 895,
+    "MonthlySales": {
+      "Oct": 106,
+      "May": 300,
+      "Dec": 602
+    },
+    "ConnectedTo": [
+      "SunTextile",
+      "PakWare",
+      "VisionHub",
+      "UrbanGrow"
+    ]
+  },
+  {
+    "Company": "MegaFoods",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2382.27,
+    "Advertising": 698,
+    "MonthlySales": {
+      "Sep": 259,
+      "Jan": 265,
+      "Nov": 401,
+      "Oct": 713,
+      "Apr": 660,
+      "Jul": 839,
+      "Mar": 174
+    },
+    "ConnectedTo": [
+      "InfraOne",
+      "RapidBuild",
+      "MetroBuild",
+      "BrightLogistics",
+      "PrimeEdge"
+    ]
+  },
+  {
+    "Company": "SmartEnergy",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 330.75,
+    "Advertising": 109,
+    "MonthlySales": {
+      "Oct": 293,
+      "Jun": 185,
+      "Sep": 862,
+      "Dec": 279,
+      "Feb": 808,
+      "Nov": 838,
+      "Jul": 426,
+      "Mar": 816,
+      "May": 905
+    },
+    "ConnectedTo": [
+      "PurePak",
+      "NovaFoods",
+      "EliteAgro",
+      "SwiftTrans",
+      "EcoSolve"
+    ]
+  },
+  {
+    "Company": "FutureWave",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2048.94,
+    "Advertising": 833,
+    "MonthlySales": {
+      "Oct": 113,
+      "Mar": 240,
+      "Feb": 866,
+      "Jun": 715,
+      "Nov": 570,
+      "Apr": 478,
+      "Dec": 661,
+      "Jul": 315,
+      "Aug": 330
+    },
+    "ConnectedTo": [
+      "DigitalRoots",
+      "PakLink",
+      "SkyLine"
+    ]
+  },
+  {
+    "Company": "PakComms",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 542.11,
+    "Advertising": 160,
+    "MonthlySales": {
+      "Nov": 548,
+      "Jun": 127,
+      "Aug": 898,
+      "Sep": 763,
+      "Oct": 923,
+      "Jul": 715,
+      "Mar": 814,
+      "May": 905
+    },
+    "ConnectedTo": [
+      "SmartGrow",
+      "VisionPak",
+      "FutureWave"
+    ]
+  },
+  {
+    "Company": "PakWater",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2816.82,
+    "Advertising": 960,
+    "MonthlySales": {
+      "Jul": 380,
+      "Feb": 766,
+      "Mar": 958,
+      "Jun": 681,
+      "May": 365
+    },
+    "ConnectedTo": [
+      "NextEra",
+      "FutureWave",
+      "TechBridge",
+      "AgroPak"
+    ]
+  },
+  {
+    "Company": "GreenGrid",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 3053.13,
+    "Advertising": 984,
+    "MonthlySales": {
+      "Jul": 222,
+      "Apr": 752,
+      "Jun": 543,
+      "Oct": 183,
+      "May": 667,
+      "Mar": 571,
+      "Feb": 281,
+      "Nov": 561,
+      "Dec": 264
+    },
+    "ConnectedTo": [
+      "PakTranz",
+      "GreenFields"
+    ]
+  },
+  {
+    "Company": "UnityTextiles",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 1638.53,
+    "Advertising": 477,
+    "MonthlySales": {
+      "Dec": 459,
+      "Nov": 122,
+      "Jul": 868,
+      "Aug": 244,
+      "Jan": 634
+    },
+    "ConnectedTo": [
+      "QasimIndustries"
+    ]
+  },
+  {
+    "Company": "SpeedLogix",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1737.32,
+    "Advertising": 540,
+    "MonthlySales": {
+      "Apr": 188,
+      "Jan": 181,
+      "May": 822,
+      "Aug": 568,
+      "Mar": 466,
+      "Dec": 697,
+      "Jul": 363,
+      "Oct": 388,
+      "Nov": 308,
+      "Sep": 226,
+      "Jun": 365
+    },
+    "ConnectedTo": [
+      "GrowSphere"
+    ]
+  },
+  {
+    "Company": "AgroPak",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1453.63,
+    "Advertising": 719,
+    "MonthlySales": {
+      "May": 845,
+      "Oct": 746,
+      "Jul": 236,
+      "Mar": 143,
+      "Dec": 979,
+      "Apr": 434,
+      "Aug": 253,
+      "Nov": 866
+    },
+    "ConnectedTo": [
+      "PakFleet"
+    ]
+  },
+  {
+    "Company": "PakRobotics",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 1258.14,
+    "Advertising": 506,
+    "MonthlySales": {
+      "Oct": 682,
+      "Jun": 691,
+      "Dec": 292,
+      "Jul": 402,
+      "May": 263,
+      "Apr": 859,
+      "Sep": 637,
+      "Jan": 364,
+      "Nov": 970,
+      "Aug": 284,
+      "Mar": 426,
+      "Feb": 670
+    },
+    "ConnectedTo": [
+      "PakNova"
+    ]
+  },
+  {
+    "Company": "DataSync",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2892.19,
+    "Advertising": 748,
+    "MonthlySales": {
+      "Mar": 805,
+      "Oct": 552,
+      "Jan": 251,
+      "Jun": 871,
+      "Feb": 240,
+      "May": 642,
+      "Sep": 486,
+      "Aug": 873
+    },
+    "ConnectedTo": [
+      "InfraOne"
+    ]
+  },
+  {
+    "Company": "PakAgro",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 786.08,
+    "Advertising": 242,
+    "MonthlySales": {
+      "Sep": 881,
+      "May": 959,
+      "Mar": 511,
+      "Jan": 277,
+      "Dec": 214,
+      "Feb": 476,
+      "Apr": 631,
+      "Jul": 503,
+      "Jun": 877,
+      "Nov": 112,
+      "Aug": 198,
+      "Oct": 485
+    },
+    "ConnectedTo": [
+      "PakComms",
+      "MetroBuild",
+      "PureHarvest",
+      "PakWater"
+    ]
+  },
+  {
+    "Company": "OptimaTech",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2478.22,
+    "Advertising": 629,
+    "MonthlySales": {
+      "Jun": 671,
+      "Jan": 908,
+      "May": 927,
+      "Jul": 587,
+      "Dec": 200
+    },
+    "ConnectedTo": [
+      "SmartHive",
+      "AgroPak",
+      "FutureWave",
+      "PakAgro"
+    ]
+  },
+  {
+    "Company": "TechBridge",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1411.2,
+    "Advertising": 380,
+    "MonthlySales": {
+      "Nov": 625,
+      "Jan": 194,
+      "Oct": 361,
+      "Aug": 458,
+      "Jun": 585,
+      "Sep": 591,
+      "Mar": 129
+    },
+    "ConnectedTo": [
+      "PurePak",
+      "AlliedBiz",
+      "QasimIndustries",
+      "SkyLine",
+      "MegaFoods"
+    ]
+  },
+  {
+    "Company": "GlobalEdge",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1328.01,
+    "Advertising": 651,
+    "MonthlySales": {
+      "Dec": 780,
+      "Aug": 734,
+      "Mar": 502,
+      "Sep": 499,
+      "Nov": 813,
+      "May": 376,
+      "Feb": 929,
+      "Oct": 649,
+      "Apr": 604,
+      "Jul": 128
+    },
+    "ConnectedTo": [
+      "PakCargo",
+      "CoreTextiles",
+      "RuralReach",
+      "ZetaCorp"
+    ]
+  },
+  {
+    "Company": "CitySolutions",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2682.61,
+    "Advertising": 680,
+    "MonthlySales": {
+      "Oct": 470,
+      "Sep": 975,
+      "Dec": 484,
+      "Feb": 209,
+      "May": 904,
+      "Aug": 855,
+      "Jul": 205,
+      "Jun": 613
+    },
+    "ConnectedTo": [
+      "SkyLogix",
+      "GreenGrid",
+      "AlphaTech"
+    ]
+  },
+  {
+    "Company": "RapidBuild",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 2019.96,
+    "Advertising": 639,
+    "MonthlySales": {
+      "Jul": 161,
+      "Apr": 788,
+      "Oct": 276,
+      "Dec": 689,
+      "Sep": 235,
+      "Mar": 445,
+      "Nov": 244,
+      "Aug": 111,
+      "May": 849,
+      "Feb": 160,
+      "Jan": 717
+    },
+    "ConnectedTo": [
+      "HortiPak",
+      "VividFoods"
+    ]
+  },
+  {
+    "Company": "Innovista",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 258.64,
+    "Advertising": 89,
+    "MonthlySales": {
+      "Apr": 407,
+      "Jan": 856,
+      "Dec": 673,
+      "Feb": 152,
+      "May": 505
+    },
+    "ConnectedTo": [
+      "MetroBuild",
+      "AgroPak",
+      "HortiPak",
+      "InfraOne"
+    ]
+  },
+  {
+    "Company": "Infopak",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 1106.57,
+    "Advertising": 342,
+    "MonthlySales": {
+      "Jul": 613,
+      "Sep": 355,
+      "Mar": 241
+    },
+    "ConnectedTo": [
+      "PakNova",
+      "NeoPak",
+      "AgroPak"
+    ]
+  },
+  {
+    "Company": "GrainLine",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1299.44,
+    "Advertising": 337,
+    "MonthlySales": {
+      "Feb": 259,
+      "Aug": 366,
+      "Apr": 873,
+      "May": 257,
+      "Jul": 811,
+      "Oct": 184,
+      "Mar": 741,
+      "Nov": 529,
+      "Jan": 275
+    },
+    "ConnectedTo": [
+      "PakFleet",
+      "QasimIndustries"
+    ]
+  },
+  {
+    "Company": "FarmaPak",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 1651.88,
+    "Advertising": 527,
+    "MonthlySales": {
+      "Feb": 661,
+      "Jun": 667,
+      "Sep": 955,
+      "Mar": 107,
+      "Jan": 775,
+      "May": 203,
+      "Oct": 512,
+      "Jul": 305,
+      "Aug": 202
+    },
+    "ConnectedTo": [
+      "ProHarvest",
+      "SmartPak",
+      "FreshPak",
+      "PrimeEdge",
+      "PakNova"
+    ]
+  },
+  {
+    "Company": "VertexSoft",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 579.73,
+    "Advertising": 228,
+    "MonthlySales": {
+      "Jul": 141,
+      "May": 903,
+      "Nov": 566,
+      "Aug": 616,
+      "Mar": 832,
+      "Feb": 723,
+      "Jan": 226
+    },
+    "ConnectedTo": [
+      "UrbanHarvest"
+    ]
+  },
+  {
+    "Company": "BlueRiver",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 795.56,
+    "Advertising": 340,
+    "MonthlySales": {
+      "Mar": 946,
+      "Jun": 917,
+      "Feb": 636
+    },
+    "ConnectedTo": [
+      "PakRobotics"
+    ]
+  },
+  {
+    "Company": "ProHarvest",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1169.01,
+    "Advertising": 410,
+    "MonthlySales": {
+      "Jun": 109,
+      "Apr": 263,
+      "Aug": 554,
+      "Dec": 737,
+      "Jan": 919
+    },
+    "ConnectedTo": [
+      "PakMachinery"
+    ]
+  },
+  {
+    "Company": "PakNova",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 3373.11,
+    "Advertising": 982,
+    "MonthlySales": {
+      "Aug": 673,
+      "Dec": 255,
+      "Jul": 734,
+      "Feb": 330
+    },
+    "ConnectedTo": [
+      "PakForce",
+      "TechBridge",
+      "FreshLogix",
+      "HortiPak",
+      "CoreTextiles"
+    ]
+  },
+  {
+    "Company": "SkyLine",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1178.74,
+    "Advertising": 447,
+    "MonthlySales": {
+      "Apr": 329,
+      "Feb": 397,
+      "Jun": 122,
+      "Mar": 736,
+      "Jan": 289,
+      "Aug": 216
+    },
+    "ConnectedTo": [
+      "TranzPak",
+      "SmartEnergy",
+      "BlueRiver"
+    ]
+  },
+  {
+    "Company": "InfraOne",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 1409.27,
+    "Advertising": 531,
+    "MonthlySales": {
+      "Apr": 580,
+      "Dec": 465,
+      "May": 990,
+      "Sep": 682,
+      "Jun": 103,
+      "Oct": 318
+    },
+    "ConnectedTo": [
+      "CoreTextiles",
+      "AlphaTech",
+      "QasimIndustries"
+    ]
+  },
+  {
+    "Company": "MetroBuild",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2002.98,
+    "Advertising": 748,
+    "MonthlySales": {
+      "Aug": 128,
+      "Apr": 837,
+      "Nov": 171,
+      "Feb": 685,
+      "Dec": 251,
+      "Jan": 208,
+      "Jul": 161
+    },
+    "ConnectedTo": [
+      "QuantumWorks",
+      "PakForce",
+      "FreshPak",
+      "CitySolutions",
+      "FutureConnect"
+    ]
+  },
+  {
+    "Company": "UrbanTex",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 3128.83,
+    "Advertising": 872,
+    "MonthlySales": {
+      "Jul": 661,
+      "Aug": 115,
+      "Jan": 554
+    },
+    "ConnectedTo": [
+      "PakSolutions",
+      "EliteAgro",
+      "PakRobotics"
+    ]
+  },
+  {
+    "Company": "ZamindarCorp",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 484.34,
+    "Advertising": 160,
+    "MonthlySales": {
+      "Jun": 445,
+      "Aug": 265,
+      "Dec": 469,
+      "Jan": 797,
+      "Apr": 139,
+      "May": 288,
+      "Sep": 398,
+      "Nov": 636,
+      "Mar": 906,
+      "Jul": 746,
+      "Feb": 503,
+      "Oct": 118
+    },
+    "ConnectedTo": [
+      "DigitalRoots",
+      "QuantumWorks",
+      "QasimIndustries",
+      "SwiftTrans"
+    ]
+  },
+  {
+    "Company": "NovaFoods",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1383.74,
+    "Advertising": 388,
+    "MonthlySales": {
+      "Mar": 543,
+      "Jun": 884,
+      "Jul": 848
+    },
+    "ConnectedTo": [
+      "PakForce",
+      "PakAgro",
+      "MegaFoods",
+      "CoreTextiles"
+    ]
+  },
+  {
+    "Company": "VisionPak",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 2108.47,
+    "Advertising": 887,
+    "MonthlySales": {
+      "Jul": 396,
+      "Oct": 530,
+      "May": 845,
+      "Mar": 367,
+      "Jan": 250,
+      "Dec": 267,
+      "Jun": 982,
+      "Sep": 548,
+      "Nov": 454,
+      "Feb": 362,
+      "Apr": 789,
+      "Aug": 434
+    },
+    "ConnectedTo": [
+      "EcoLink",
+      "AgroSphere"
+    ]
+  },
+  {
+    "Company": "DigitalRoots",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 2192.24,
+    "Advertising": 989,
+    "MonthlySales": {
+      "Aug": 853,
+      "Jun": 889,
+      "May": 727,
+      "Mar": 312,
+      "Sep": 599,
+      "Oct": 941,
+      "Dec": 881,
+      "Nov": 423,
+      "Apr": 320
+    },
+    "ConnectedTo": [
+      "AgroSphere",
+      "UrbanBuild",
+      "PakSolutions",
+      "EcoWare"
+    ]
+  },
+  {
+    "Company": "PurePak",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 879.37,
+    "Advertising": 377,
+    "MonthlySales": {
+      "Apr": 131,
+      "Jul": 255,
+      "Mar": 449
+    },
+    "ConnectedTo": [
+      "BrightLogistics"
+    ]
+  },
+  {
+    "Company": "AlphaTech",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 1581.14,
+    "Advertising": 400,
+    "MonthlySales": {
+      "Jan": 718,
+      "Nov": 363,
+      "Dec": 839,
+      "Jun": 753
+    },
+    "ConnectedTo": [
+      "AutoPak",
+      "GlobalEdge",
+      "VisionPak",
+      "SmartPak",
+      "PakIT"
+    ]
+  },
+  {
+    "Company": "PakSolar",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2269.07,
+    "Advertising": 665,
+    "MonthlySales": {
+      "Feb": 430,
+      "Jun": 736,
+      "Aug": 326,
+      "Nov": 850,
+      "Jan": 815,
+      "Sep": 814,
+      "Dec": 942,
+      "Mar": 755,
+      "Jul": 386,
+      "May": 383,
+      "Oct": 286
+    },
+    "ConnectedTo": [
+      "QuantumWorks",
+      "BrightLogistics"
+    ]
+  },
+  {
+    "Company": "SwiftTrans",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 3054.97,
+    "Advertising": 960,
+    "MonthlySales": {
+      "May": 960,
+      "Sep": 330,
+      "Apr": 674,
+      "Feb": 930,
+      "Dec": 980,
+      "Jul": 550,
+      "Aug": 262,
+      "Nov": 868,
+      "Oct": 571,
+      "Mar": 716
+    },
+    "ConnectedTo": [
+      "AgroChain",
+      "SoftPak"
+    ]
+  },
+  {
+    "Company": "AgroSphere",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1663.8,
+    "Advertising": 491,
+    "MonthlySales": {
+      "Jan": 388,
+      "May": 363,
+      "Jun": 869,
+      "Oct": 261,
+      "Aug": 725,
+      "Mar": 919,
+      "Sep": 226,
+      "Jul": 962,
+      "Nov": 954,
+      "Feb": 231
+    },
+    "ConnectedTo": [
+      "AlphaTech",
+      "PakFleet",
+      "RuralReach",
+      "SafeRoute",
+      "MetroBuild"
+    ]
+  },
+  {
+    "Company": "PrimeEdge",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 314.05,
+    "Advertising": 89,
+    "MonthlySales": {
+      "Sep": 322,
+      "Apr": 700,
+      "May": 971,
+      "Jul": 209,
+      "Aug": 718,
+      "Mar": 285,
+      "Oct": 440,
+      "Dec": 394,
+      "Nov": 561,
+      "Feb": 531,
+      "Jan": 733,
+      "Jun": 630
+    },
+    "ConnectedTo": [
+      "QuantumWorks",
+      "PakIT",
+      "GrowSphere",
+      "EliteAgro"
+    ]
+  },
+  {
+    "Company": "CoreTextiles",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2375.56,
+    "Advertising": 684,
+    "MonthlySales": {
+      "May": 354,
+      "Oct": 680,
+      "Jan": 916,
+      "Feb": 291,
+      "Jun": 314,
+      "Nov": 512,
+      "Apr": 727,
+      "Aug": 729,
+      "Mar": 599,
+      "Jul": 169,
+      "Sep": 119,
+      "Dec": 772
+    },
+    "ConnectedTo": [
+      "GreenBridge",
+      "LogiPak"
+    ]
+  },
+  {
+    "Company": "ZaraiCorp",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1358.61,
+    "Advertising": 349,
+    "MonthlySales": {
+      "Jan": 139,
+      "Sep": 741,
+      "Feb": 415,
+      "Jun": 307,
+      "Jul": 645,
+      "Apr": 144,
+      "Mar": 490,
+      "Aug": 818,
+      "Dec": 780
+    },
+    "ConnectedTo": [
+      "SafeRoute",
+      "QasimIndustries",
+      "AgroSphere"
+    ]
+  },
+  {
+    "Company": "AgroWare",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1736.22,
+    "Advertising": 749,
+    "MonthlySales": {
+      "Jan": 233,
+      "Apr": 235,
+      "Mar": 318,
+      "Feb": 719,
+      "May": 254,
+      "Oct": 246
+    },
+    "ConnectedTo": [
+      "AgroBiz"
+    ]
+  },
+  {
+    "Company": "GreenBridge",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 204.88,
+    "Advertising": 60,
+    "MonthlySales": {
+      "Jan": 643,
+      "Jul": 357,
+      "Sep": 900,
+      "Aug": 849,
+      "Mar": 867,
+      "Jun": 466,
+      "Oct": 164,
+      "Feb": 192,
+      "Nov": 545,
+      "Dec": 563
+    },
+    "ConnectedTo": [
+      "SkyLine",
+      "GrainLine",
+      "SwiftTrans",
+      "PakForce",
+      "DigitalRoots"
+    ]
+  },
+  {
+    "Company": "PakFleet",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1413.84,
+    "Advertising": 391,
+    "MonthlySales": {
+      "Nov": 754,
+      "Feb": 304,
+      "Mar": 154,
+      "Oct": 340,
+      "Aug": 309,
+      "Jul": 360
+    },
+    "ConnectedTo": [
+      "FutureWave",
+      "FutureConnect",
+      "RuralReach",
+      "CoreTextiles",
+      "AgroPlus"
+    ]
+  },
+  {
+    "Company": "SkyLogix",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2390.56,
+    "Advertising": 733,
+    "MonthlySales": {
+      "Sep": 136,
+      "Jun": 786,
+      "Feb": 407,
+      "Dec": 235,
+      "Aug": 660,
+      "Jan": 431,
+      "Jul": 994,
+      "Nov": 157,
+      "Apr": 415,
+      "Oct": 418,
+      "May": 572
+    },
+    "ConnectedTo": [
+      "BrightFields",
+      "Infopak"
+    ]
+  },
+  {
+    "Company": "PakCargo",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2416.01,
+    "Advertising": 756,
+    "MonthlySales": {
+      "May": 963,
+      "Feb": 969,
+      "Jan": 681,
+      "Oct": 816
+    },
+    "ConnectedTo": [
+      "CitySolutions",
+      "PakIT"
+    ]
+  },
+  {
+    "Company": "AutoPak",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 3390.83,
+    "Advertising": 893,
+    "MonthlySales": {
+      "May": 657,
+      "Apr": 161,
+      "Dec": 761,
+      "Jun": 618,
+      "Oct": 721,
+      "Nov": 577,
+      "Aug": 905
+    },
+    "ConnectedTo": [
+      "PakCargo",
+      "RapidBuild",
+      "InfraOne",
+      "SoftPak",
+      "PrimeEdge"
+    ]
+  },
+  {
+    "Company": "AgroChain",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1013.2,
+    "Advertising": 320,
+    "MonthlySales": {
+      "Jan": 702,
+      "Mar": 374,
+      "May": 894,
+      "Jun": 632,
+      "Apr": 556,
+      "Feb": 442
+    },
+    "ConnectedTo": [
+      "CitySolutions",
+      "SoftPak"
+    ]
+  },
+  {
+    "Company": "FreshLogix",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 994.13,
+    "Advertising": 252,
+    "MonthlySales": {
+      "Jun": 803,
+      "Apr": 366,
+      "Mar": 999,
+      "May": 369
+    },
+    "ConnectedTo": [
+      "PakWater"
+    ]
+  },
+  {
+    "Company": "NeoPak",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 989.33,
+    "Advertising": 408,
+    "MonthlySales": {
+      "Mar": 149,
+      "Nov": 522,
+      "Sep": 671,
+      "Aug": 958,
+      "Oct": 705,
+      "Jul": 741,
+      "Apr": 646
+    },
+    "ConnectedTo": [
+      "PakWater",
+      "SunTextile",
+      "FutureConnect",
+      "FutureWave"
+    ]
+  },
+  {
+    "Company": "EcoSolve",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 1710.82,
+    "Advertising": 560,
+    "MonthlySales": {
+      "May": 352,
+      "Oct": 885,
+      "Dec": 458,
+      "Feb": 697,
+      "Jun": 716,
+      "Jan": 262,
+      "Apr": 912,
+      "Sep": 510,
+      "Jul": 621
+    },
+    "ConnectedTo": [
+      "UrbanGrow",
+      "BrightLogistics",
+      "GreenPak",
+      "SunTextile"
+    ]
+  },
+  {
+    "Company": "PureHarvest",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 555.88,
+    "Advertising": 223,
+    "MonthlySales": {
+      "Mar": 125,
+      "Nov": 508,
+      "Feb": 130,
+      "Jun": 912,
+      "Aug": 405,
+      "Jul": 784,
+      "Sep": 190,
+      "Jan": 547,
+      "Apr": 415,
+      "Dec": 859
+    },
+    "ConnectedTo": [
+      "FarmaPak"
+    ]
+  },
+  {
+    "Company": "InfoNest",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 2514.93,
+    "Advertising": 860,
+    "MonthlySales": {
+      "Nov": 288,
+      "Apr": 281,
+      "Jan": 876,
+      "Jul": 286,
+      "Oct": 202,
+      "Aug": 636,
+      "Jun": 906,
+      "Dec": 419
+    },
+    "ConnectedTo": [
+      "AlliedBiz",
+      "NeoPak",
+      "Innovista",
+      "AgroWare",
+      "UnityTextiles"
+    ]
+  },
+  {
+    "Company": "EcoLink",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2485.47,
+    "Advertising": 938,
+    "MonthlySales": {
+      "Jun": 664,
+      "Apr": 862,
+      "Feb": 559,
+      "Oct": 598,
+      "Mar": 813
+    },
+    "ConnectedTo": [
+      "BluePak",
+      "MegaFoods",
+      "HortiPak",
+      "VividFoods"
+    ]
+  },
+  {
+    "Company": "AlliedBiz",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1531.25,
+    "Advertising": 713,
+    "MonthlySales": {
+      "Jan": 519,
+      "Aug": 705,
+      "Dec": 348,
+      "Sep": 354
+    },
+    "ConnectedTo": [
+      "PurePak",
+      "UrbanHarvest"
+    ]
+  },
+  {
+    "Company": "BrightLogistics",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 490.56,
+    "Advertising": 132,
+    "MonthlySales": {
+      "Mar": 330,
+      "Feb": 843,
+      "Aug": 701
+    },
+    "ConnectedTo": [
+      "PakForce",
+      "NextEra",
+      "SwiftTrans",
+      "UnityTextiles",
+      "LogiPak"
+    ]
+  },
+  {
+    "Company": "SunTextile",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1722.74,
+    "Advertising": 700,
+    "MonthlySales": {
+      "Nov": 954,
+      "Oct": 697,
+      "Mar": 978,
+      "Jul": 864,
+      "Aug": 173,
+      "Sep": 120,
+      "Jan": 335,
+      "Jun": 217,
+      "Feb": 762,
+      "Dec": 589,
+      "May": 557,
+      "Apr": 233
+    },
+    "ConnectedTo": [
+      "CoreTextiles",
+      "PakTranz",
+      "CitySolutions",
+      "PakMachinery",
+      "PakIT"
+    ]
+  },
+  {
+    "Company": "NextEra",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 1149.4,
+    "Advertising": 317,
+    "MonthlySales": {
+      "Aug": 521,
+      "Dec": 380,
+      "Apr": 368,
+      "Jun": 335,
+      "Jan": 777,
+      "Sep": 341,
+      "Jul": 559,
+      "Nov": 807,
+      "Feb": 265,
+      "Mar": 510,
+      "Oct": 396
+    },
+    "ConnectedTo": [
+      "AgroChain",
+      "BrightPath",
+      "DigitalRoots",
+      "GrainLine"
+    ]
+  },
+  {
+    "Company": "BluePak",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2226.83,
+    "Advertising": 670,
+    "MonthlySales": {
+      "Jun": 621,
+      "Sep": 128,
+      "Oct": 904,
+      "Dec": 491
+    },
+    "ConnectedTo": [
+      "MetroBuild",
+      "FreshPak",
+      "PakSolutions",
+      "EcoSolve",
+      "RuralReach"
+    ]
+  },
+  {
+    "Company": "FreshPak",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 571.83,
+    "Advertising": 251,
+    "MonthlySales": {
+      "Nov": 223,
+      "Apr": 540,
+      "Aug": 383,
+      "Jun": 854,
+      "Sep": 789
+    },
+    "ConnectedTo": [
+      "QasimIndustries",
+      "VisionPak",
+      "VividFoods",
+      "ZetaCorp",
+      "LogiPak"
+    ]
+  },
+  {
+    "Company": "PakWare",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2741.83,
+    "Advertising": 741,
+    "MonthlySales": {
+      "Oct": 437,
+      "May": 141,
+      "Feb": 584,
+      "Mar": 605
+    },
+    "ConnectedTo": [
+      "VertexSoft",
+      "ZamindarCorp",
+      "PakNova"
+    ]
+  },
+  {
+    "Company": "AgroPlus",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 1057.67,
+    "Advertising": 508,
+    "MonthlySales": {
+      "Jun": 676,
+      "Sep": 666,
+      "Nov": 995,
+      "Oct": 666
+    },
+    "ConnectedTo": [
+      "GreenGrid"
+    ]
+  },
+  {
+    "Company": "SafeRoute",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2557.65,
+    "Advertising": 927,
+    "MonthlySales": {
+      "May": 411,
+      "Jan": 127,
+      "Dec": 432,
+      "Sep": 313
+    },
+    "ConnectedTo": [
+      "NeoPak",
+      "PakSolutions",
+      "Infopak",
+      "PakWare"
+    ]
+  },
+  {
+    "Company": "AfaqTraders",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1012.22,
+    "Advertising": 334,
+    "MonthlySales": {
+      "May": 990,
+      "Dec": 349,
+      "Aug": 314,
+      "Jul": 297,
+      "Oct": 192,
+      "Feb": 906,
+      "Sep": 814,
+      "Jun": 810,
+      "Apr": 608,
+      "Jan": 692,
+      "Mar": 542,
+      "Nov": 102
+    },
+    "ConnectedTo": [
+      "AutoPak",
+      "NeoPak",
+      "PakComms"
+    ]
+  },
+  {
+    "Company": "RuralReach",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 750.09,
+    "Advertising": 190,
+    "MonthlySales": {
+      "Dec": 935,
+      "Feb": 185,
+      "May": 172,
+      "Apr": 134,
+      "Nov": 169,
+      "Sep": 533,
+      "Jan": 736,
+      "Jun": 467
+    },
+    "ConnectedTo": [
+      "Infopak",
+      "PrimeEdge",
+      "AlliedBiz",
+      "SunTextile",
+      "GreenPak"
+    ]
+  },
+  {
+    "Company": "VividFoods",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2945.03,
+    "Advertising": 796,
+    "MonthlySales": {
+      "Nov": 791,
+      "Apr": 461,
+      "Feb": 964,
+      "Oct": 567,
+      "Jun": 339,
+      "Aug": 818,
+      "Mar": 616,
+      "May": 180,
+      "Jul": 414
+    },
+    "ConnectedTo": [
+      "SkyLogix",
+      "AgroPlus",
+      "SafaSolutions",
+      "PakTranz"
+    ]
+  },
+  {
+    "Company": "PakExpress",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2583.1,
+    "Advertising": 734,
+    "MonthlySales": {
+      "Jul": 652,
+      "Dec": 133,
+      "Aug": 805,
+      "Nov": 889,
+      "Oct": 492,
+      "Feb": 459,
+      "Jan": 743,
+      "May": 868
+    },
+    "ConnectedTo": [
+      "AgroPlus",
+      "EcoSolve",
+      "BluePak",
+      "FutureWave",
+      "PakWare"
+    ]
+  },
+  {
+    "Company": "BrightFields",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 602.0,
+    "Advertising": 181,
+    "MonthlySales": {
+      "Mar": 871,
+      "Dec": 860,
+      "Apr": 545,
+      "Jul": 366,
+      "Nov": 832,
+      "Jun": 786,
+      "Oct": 400,
+      "Feb": 429,
+      "Jan": 191,
+      "Aug": 527
+    },
+    "ConnectedTo": [
+      "RuralReach"
+    ]
+  },
+  {
+    "Company": "PakForce",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 2666.58,
+    "Advertising": 992,
+    "MonthlySales": {
+      "Jul": 214,
+      "Sep": 977,
+      "Aug": 930,
+      "Dec": 740,
+      "May": 286,
+      "Oct": 674,
+      "Jan": 836,
+      "Apr": 432
+    },
+    "ConnectedTo": [
+      "AgroWare",
+      "DataSync",
+      "PakTranz",
+      "CitySolutions",
+      "PakSolutions"
+    ]
+  },
+  {
+    "Company": "OmniCore",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 3005.84,
+    "Advertising": 961,
+    "MonthlySales": {
+      "Sep": 488,
+      "Jan": 186,
+      "Dec": 508,
+      "Oct": 674,
+      "Jun": 915,
+      "Jul": 573,
+      "Feb": 447,
+      "Apr": 647,
+      "Aug": 595,
+      "Mar": 536,
+      "Nov": 875,
+      "May": 614
+    },
+    "ConnectedTo": [
+      "EcoWare",
+      "ZetaCorp",
+      "ProHarvest"
+    ]
+  },
+  {
+    "Company": "QasimIndustries",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2408.14,
+    "Advertising": 850,
+    "MonthlySales": {
+      "Feb": 286,
+      "Jun": 873,
+      "Aug": 666,
+      "Sep": 188
+    },
+    "ConnectedTo": [
+      "ZetaCorp",
+      "LogiPak",
+      "MetroBuild",
+      "Infopak",
+      "PakSolutions"
+    ]
+  },
+  {
+    "Company": "AgroBiz",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 1511.51,
+    "Advertising": 390,
+    "MonthlySales": {
+      "Mar": 588,
+      "Nov": 861,
+      "Feb": 922,
+      "Aug": 605,
+      "Apr": 242,
+      "Dec": 715,
+      "Jun": 508
+    },
+    "ConnectedTo": [
+      "SunTextile",
+      "SafeRoute"
+    ]
+  },
+  {
+    "Company": "EliteAgro",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 863.64,
+    "Advertising": 296,
+    "MonthlySales": {
+      "Dec": 651,
+      "Oct": 446,
+      "Mar": 673,
+      "Jun": 472,
+      "Aug": 619,
+      "Jan": 709,
+      "Sep": 192,
+      "Apr": 282,
+      "Nov": 974,
+      "Jul": 881
+    },
+    "ConnectedTo": [
+      "AgroPak",
+      "UnityTextiles",
+      "AgroPlus",
+      "LogiPak",
+      "GreenPak"
+    ]
+  },
+  {
+    "Company": "GreenFields",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 515.83,
+    "Advertising": 243,
+    "MonthlySales": {
+      "Jun": 223,
+      "Jan": 293,
+      "Feb": 593,
+      "Dec": 744,
+      "Jul": 439,
+      "Nov": 135,
+      "Sep": 733
+    },
+    "ConnectedTo": [
+      "EcoWare",
+      "FarmaPak",
+      "BluePak"
+    ]
+  },
+  {
+    "Company": "EcoWare",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 640.35,
+    "Advertising": 212,
+    "MonthlySales": {
+      "Dec": 749,
+      "Sep": 620,
+      "Mar": 273,
+      "Apr": 122,
+      "Aug": 183,
+      "Jan": 440
+    },
+    "ConnectedTo": [
+      "AfaqTraders"
+    ]
+  },
+  {
+    "Company": "QuantumWorks",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1984.65,
+    "Advertising": 634,
+    "MonthlySales": {
+      "Feb": 206,
+      "Oct": 467,
+      "Apr": 443,
+      "Jul": 946,
+      "Jun": 410,
+      "Nov": 551,
+      "Dec": 136,
+      "Aug": 641,
+      "May": 333,
+      "Sep": 513
+    },
+    "ConnectedTo": [
+      "AgroSphere",
+      "PakCargo"
+    ]
+  },
+  {
+    "Company": "PakMachinery",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1824.74,
+    "Advertising": 488,
+    "MonthlySales": {
+      "Feb": 139,
+      "Jul": 922,
+      "Oct": 433,
+      "May": 767
+    },
+    "ConnectedTo": [
+      "SmartEnergy",
+      "SmartGrow",
+      "ZaraiCorp",
+      "AgroSphere",
+      "MegaFoods"
+    ]
+  },
+  {
+    "Company": "UrbanBuild",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 2031.62,
+    "Advertising": 983,
+    "MonthlySales": {
+      "Oct": 662,
+      "Jun": 777,
+      "Dec": 363,
+      "Aug": 564,
+      "Jan": 809,
+      "Nov": 198
+    },
+    "ConnectedTo": [
+      "MetroBuild",
+      "PakNova"
+    ]
+  },
+  {
+    "Company": "HortiPak",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 2470.4,
+    "Advertising": 678,
+    "MonthlySales": {
+      "Jan": 101,
+      "Feb": 208,
+      "May": 302,
+      "Mar": 216,
+      "Jul": 275,
+      "Apr": 129,
+      "Aug": 455,
+      "Nov": 900,
+      "Sep": 826
+    },
+    "ConnectedTo": [
+      "CoreTextiles",
+      "SmartEnergy"
+    ]
+  },
+  {
+    "Company": "SmartPak",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Textiles",
+    "Revenue": 2610.6,
+    "Advertising": 850,
+    "MonthlySales": {
+      "Aug": 370,
+      "Jun": 136,
+      "Nov": 260,
+      "Mar": 316,
+      "May": 676
+    },
+    "ConnectedTo": [
+      "PakTranz",
+      "SkyLogix",
+      "EcoSolve",
+      "EliteAgro",
+      "AgroBiz"
+    ]
+  },
+  {
+    "Company": "SmartHive",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1847.49,
+    "Advertising": 592,
+    "MonthlySales": {
+      "Nov": 762,
+      "Oct": 380,
+      "Jun": 789
+    },
+    "ConnectedTo": [
+      "PakRobotics",
+      "SmartEnergy",
+      "MegaFoods"
+    ]
+  },
+  {
+    "Company": "GreenPak",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1933.21,
+    "Advertising": 729,
+    "MonthlySales": {
+      "Jan": 630,
+      "Sep": 579,
+      "May": 119
+    },
+    "ConnectedTo": [
+      "RuralReach",
+      "FutureWave",
+      "DigitalRoots",
+      "VertexSoft",
+      "AfaqTraders"
+    ]
+  },
+  {
+    "Company": "FutureConnect",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2976.93,
+    "Advertising": 956,
+    "MonthlySales": {
+      "Sep": 249,
+      "Feb": 624,
+      "May": 668,
+      "Jul": 702
+    },
+    "ConnectedTo": [
+      "PakMachinery",
+      "PakSolar",
+      "GrainLine",
+      "InfoNest",
+      "CoreTextiles"
+    ]
+  },
+  {
+    "Company": "PakTranz",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 892.32,
+    "Advertising": 278,
+    "MonthlySales": {
+      "May": 789,
+      "Apr": 795,
+      "Jan": 642,
+      "Dec": 128,
+      "Mar": 770,
+      "Jun": 748,
+      "Oct": 240,
+      "Jul": 841,
+      "Feb": 912
+    },
+    "ConnectedTo": [
+      "AgroBiz",
+      "TranzPak"
+    ]
+  },
+  {
+    "Company": "VisionHub",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 677.07,
+    "Advertising": 315,
+    "MonthlySales": {
+      "Feb": 778,
+      "Apr": 126,
+      "Aug": 683,
+      "May": 107,
+      "Jul": 514,
+      "Oct": 169,
+      "Sep": 691,
+      "Jun": 524,
+      "Mar": 529,
+      "Jan": 158
+    },
+    "ConnectedTo": [
+      "LogiPak",
+      "GreenFields",
+      "AgroSphere",
+      "SpeedLogix",
+      "PakWare"
+    ]
+  },
+  {
+    "Company": "BrightPath",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 2524.73,
+    "Advertising": 642,
+    "MonthlySales": {
+      "Aug": 916,
+      "Nov": 478,
+      "Dec": 213,
+      "Feb": 948
+    },
+    "ConnectedTo": [
+      "PakMachinery",
+      "UrbanBuild",
+      "GreenFields",
+      "UrbanGrow",
+      "NovaFoods"
+    ]
+  },
+  {
+    "Company": "UrbanHarvest",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2899.25,
+    "Advertising": 728,
+    "MonthlySales": {
+      "Nov": 752,
+      "May": 136,
+      "Dec": 613,
+      "Feb": 519,
+      "Oct": 857,
+      "Jul": 457,
+      "Sep": 942,
+      "Jan": 647,
+      "Apr": 513,
+      "Mar": 285,
+      "Jun": 261
+    },
+    "ConnectedTo": [
+      "HortiPak",
+      "PakSolar",
+      "SkyLine"
+    ]
+  },
+  {
+    "Company": "SmartGrow",
+    "Region": "Punjab",
+    "Sector": "Consumer Goods",
+    "Category": "Electronics",
+    "Revenue": 2018.66,
+    "Advertising": 506,
+    "MonthlySales": {
+      "Apr": 854,
+      "May": 828,
+      "Jun": 660,
+      "Jul": 670,
+      "Dec": 676
+    },
+    "ConnectedTo": [
+      "ZamindarCorp",
+      "PakNova",
+      "CoreTextiles"
+    ]
+  },
+  {
+    "Company": "LogiPak",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 2621.49,
+    "Advertising": 672,
+    "MonthlySales": {
+      "Mar": 293,
+      "Oct": 848,
+      "Jun": 770,
+      "Jan": 367,
+      "Nov": 560,
+      "May": 334,
+      "Feb": 829
+    },
+    "ConnectedTo": [
+      "QuantumWorks",
+      "PakNova",
+      "InfoNest"
+    ]
+  },
+  {
+    "Company": "PakSolutions",
+    "Region": "Islamabad Capital Territory",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 1218.14,
+    "Advertising": 314,
+    "MonthlySales": {
+      "Dec": 413,
+      "Feb": 835,
+      "Jul": 730
+    },
+    "ConnectedTo": [
+      "SmartGrow",
+      "BrightFields",
+      "FreshPak",
+      "PakForce"
+    ]
+  },
+  {
+    "Company": "UrbanGrow",
+    "Region": "Balochistan",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1053.77,
+    "Advertising": 389,
+    "MonthlySales": {
+      "Feb": 187,
+      "Oct": 170,
+      "Apr": 511
+    },
+    "ConnectedTo": [
+      "AgroBiz",
+      "SmartGrow",
+      "QasimIndustries",
+      "BrightLogistics"
+    ]
+  },
+  {
+    "Company": "ZetaCorp",
+    "Region": "Khyber Pakhtunkhwa",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 582.86,
+    "Advertising": 284,
+    "MonthlySales": {
+      "May": 772,
+      "Jan": 827,
+      "Sep": 299,
+      "Jul": 426,
+      "Aug": 771,
+      "Dec": 458
+    },
+    "ConnectedTo": [
+      "PakNova",
+      "VividFoods",
+      "PakIT",
+      "VertexSoft"
+    ]
+  },
+  {
+    "Company": "NextHarvest",
+    "Region": "Sindh",
+    "Sector": "Services",
+    "Category": "Logistics",
+    "Revenue": 1917.5,
+    "Advertising": 536,
+    "MonthlySales": {
+      "Jul": 763,
+      "Nov": 210,
+      "May": 164
+    },
+    "ConnectedTo": [
+      "MegaFoods",
+      "NovaFoods",
+      "MetroBuild",
+      "FarmaPak",
+      "AgroWare"
+    ]
+  },
+  {
+    "Company": "SoftPak",
+    "Region": "Sindh",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 322.35,
+    "Advertising": 130,
+    "MonthlySales": {
+      "Oct": 842,
+      "Apr": 954,
+      "Jun": 886,
+      "May": 797,
+      "Feb": 240,
+      "Sep": 194
+    },
+    "ConnectedTo": [
+      "GrowSphere",
+      "VividFoods",
+      "VisionPak"
+    ]
+  },
+  {
+    "Company": "PakChem",
+    "Region": "Balochistan",
+    "Sector": "Consumer Goods",
+    "Category": "Furniture",
+    "Revenue": 2022.6,
+    "Advertising": 645,
+    "MonthlySales": {
+      "Aug": 686,
+      "Apr": 479,
+      "Feb": 430,
+      "Jan": 269,
+      "Jul": 407,
+      "Sep": 955,
+      "May": 551,
+      "Mar": 184,
+      "Jun": 440,
+      "Dec": 695,
+      "Nov": 971,
+      "Oct": 678
+    },
+    "ConnectedTo": [
+      "PakSolutions",
+      "InfoNest",
+      "PakIT"
+    ]
+  },
+  {
+    "Company": "SafaSolutions",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "Agriculture",
+    "Revenue": 1620.83,
+    "Advertising": 524,
+    "MonthlySales": {
+      "Oct": 864,
+      "Sep": 814,
+      "Jul": 934,
+      "Apr": 282,
+      "Aug": 295,
+      "Nov": 960,
+      "Jun": 315,
+      "May": 176
+    },
+    "ConnectedTo": [
+      "SmartGrow"
+    ]
+  },
+  {
+    "Company": "GrowSphere",
+    "Region": "Punjab",
+    "Sector": "Services",
+    "Category": "IT",
+    "Revenue": 2019.68,
+    "Advertising": 707,
+    "MonthlySales": {
+      "Feb": 634,
+      "Nov": 645,
+      "Jun": 574,
+      "Dec": 414,
+      "Jul": 310
+    },
+    "ConnectedTo": [
+      "SmartHive",
+      "SunTextile",
+      "BrightLogistics"
+    ]
+  }
+]

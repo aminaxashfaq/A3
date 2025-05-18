@@ -1,0 +1,2228 @@
+[
+  {
+    "Artist": "The Vibe",
+    "Region": "Asia",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Mar": 2,
+      "Sep": 2,
+      "Nov": 1,
+      "Jun": 3,
+      "Apr": 15,
+      "Dec": 7,
+      "Jan": 12,
+      "Jul": 13
+    },
+    "FollowersInMillions": 19.82,
+    "EarningsInMillionUSD": 4.53,
+    "CollaboratedWith": [
+      "Lady Bass",
+      "Lady Echo",
+      "Professor Storm"
+    ]
+  },
+  {
+    "Artist": "Dr. Groove",
+    "Region": "Oceania",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "May": 5,
+      "Mar": 5,
+      "Feb": 12,
+      "Dec": 3,
+      "Sep": 10,
+      "Apr": 1,
+      "Aug": 2,
+      "Jan": 7,
+      "Oct": 4,
+      "Jun": 4
+    },
+    "FollowersInMillions": 30.39,
+    "EarningsInMillionUSD": 44.18,
+    "CollaboratedWith": [
+      "The Beat",
+      "Lil Vibe"
+    ]
+  },
+  {
+    "Artist": "Sir Harmony",
+    "Region": "South America",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Oct": 2,
+      "Nov": 7,
+      "Aug": 0,
+      "Mar": 1,
+      "Jun": 1,
+      "Apr": 3,
+      "Sep": 5,
+      "Jul": 1
+    },
+    "FollowersInMillions": 25.37,
+    "EarningsInMillionUSD": 20.89,
+    "CollaboratedWith": [
+      "DJ Vibe",
+      "Lil Bass",
+      "Young Bass"
+    ]
+  },
+  {
+    "Artist": "Lady Flow",
+    "Region": "Europe",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Nov": 9,
+      "Sep": 14,
+      "Oct": 2,
+      "Jul": 8,
+      "Jun": 14,
+      "Mar": 14,
+      "Apr": 12
+    },
+    "FollowersInMillions": 7.84,
+    "EarningsInMillionUSD": 0.43,
+    "CollaboratedWith": [
+      "Young Bass",
+      "Lil Bass"
+    ]
+  },
+  {
+    "Artist": "The Flow",
+    "Region": "Asia",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Jun": 11,
+      "Mar": 9,
+      "Jul": 10,
+      "Nov": 5,
+      "Dec": 10,
+      "Aug": 1,
+      "Oct": 11,
+      "Jan": 1,
+      "Feb": 7
+    },
+    "FollowersInMillions": 22.29,
+    "EarningsInMillionUSD": 30.02,
+    "CollaboratedWith": [
+      "Sir Bass",
+      "Sir Harmony"
+    ]
+  },
+  {
+    "Artist": "Lil Beat",
+    "Region": "Asia",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Nov": 7,
+      "Mar": 14,
+      "May": 4,
+      "Dec": 5
+    },
+    "FollowersInMillions": 0.92,
+    "EarningsInMillionUSD": 38.09,
+    "CollaboratedWith": [
+      "DJ Harmony",
+      "Lil Storm",
+      "Professor Storm",
+      "Dr. Beat"
+    ]
+  },
+  {
+    "Artist": "MC Echo",
+    "Region": "Europe",
+    "Genre": "Classical",
+    "MonthlyConcerts": {
+      "Aug": 2,
+      "Oct": 7,
+      "Apr": 9,
+      "Dec": 0,
+      "May": 11,
+      "Jun": 3
+    },
+    "FollowersInMillions": 40.72,
+    "EarningsInMillionUSD": 39.91,
+    "CollaboratedWith": [
+      "Young Flow",
+      "Dr. Storm",
+      "Professor Bass",
+      "Lady Bass"
+    ]
+  },
+  {
+    "Artist": "The Storm",
+    "Region": "Oceania",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Mar": 9,
+      "Dec": 0,
+      "Sep": 0,
+      "Jun": 15,
+      "Jan": 13,
+      "May": 0,
+      "Nov": 3,
+      "Oct": 2,
+      "Feb": 10,
+      "Jul": 13,
+      "Apr": 2
+    },
+    "FollowersInMillions": 29.11,
+    "EarningsInMillionUSD": 18.63,
+    "CollaboratedWith": [
+      "MC Storm",
+      "DJ Bass",
+      "Young Beat",
+      "Lil Rhythm"
+    ]
+  },
+  {
+    "Artist": "Lady Echo",
+    "Region": "South America",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Nov": 11,
+      "Sep": 13,
+      "Oct": 1,
+      "Jun": 7,
+      "Jul": 1,
+      "May": 3
+    },
+    "FollowersInMillions": 37.05,
+    "EarningsInMillionUSD": 28.81,
+    "CollaboratedWith": [
+      "Lady Flow",
+      "Big Blaze",
+      "Professor Bass"
+    ]
+  },
+  {
+    "Artist": "Sir Vibe",
+    "Region": "Asia",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "May": 13,
+      "Feb": 1,
+      "Nov": 10,
+      "Jan": 7,
+      "Apr": 14,
+      "Aug": 7,
+      "Sep": 15,
+      "Mar": 7,
+      "Jul": 5,
+      "Dec": 12,
+      "Jun": 14
+    },
+    "FollowersInMillions": 53.48,
+    "EarningsInMillionUSD": 28.99,
+    "CollaboratedWith": [
+      "Professor Harmony",
+      "MC Beat"
+    ]
+  },
+  {
+    "Artist": "Sir Storm",
+    "Region": "South America",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Apr": 3,
+      "Mar": 3,
+      "Jul": 15,
+      "Nov": 6,
+      "Jan": 9,
+      "May": 9,
+      "Feb": 12,
+      "Jun": 4,
+      "Dec": 10,
+      "Oct": 7,
+      "Sep": 11,
+      "Aug": 12
+    },
+    "FollowersInMillions": 98.02,
+    "EarningsInMillionUSD": 38.03,
+    "CollaboratedWith": [
+      "Professor Storm",
+      "Sir Rhythm",
+      "MC Storm"
+    ]
+  },
+  {
+    "Artist": "Lady Harmony",
+    "Region": "Asia",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Dec": 14,
+      "Aug": 15,
+      "Jul": 8,
+      "Jan": 11,
+      "May": 11,
+      "Sep": 4,
+      "Mar": 2,
+      "Feb": 13,
+      "Jun": 4,
+      "Apr": 8,
+      "Oct": 11,
+      "Nov": 9
+    },
+    "FollowersInMillions": 79.91,
+    "EarningsInMillionUSD": 48.97,
+    "CollaboratedWith": [
+      "Sir Echo",
+      "Big Blaze",
+      "MC Beat",
+      "Sir Beat",
+      "Big Beat",
+      "Lil Flow"
+    ]
+  },
+  {
+    "Artist": "DJ Vibe",
+    "Region": "Asia",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Jul": 10,
+      "Apr": 1,
+      "Jan": 12,
+      "Aug": 2,
+      "May": 13,
+      "Dec": 2,
+      "Feb": 8,
+      "Nov": 14,
+      "Oct": 0,
+      "Mar": 2,
+      "Jun": 8
+    },
+    "FollowersInMillions": 90.16,
+    "EarningsInMillionUSD": 10.14,
+    "CollaboratedWith": [
+      "DJ Blaze",
+      "Lil Echo",
+      "Lady Blaze"
+    ]
+  },
+  {
+    "Artist": "Sir Groove",
+    "Region": "Europe",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Dec": 11,
+      "Aug": 4,
+      "Sep": 10,
+      "May": 6,
+      "Nov": 9,
+      "Oct": 10,
+      "Jan": 1
+    },
+    "FollowersInMillions": 83.05,
+    "EarningsInMillionUSD": 24.33,
+    "CollaboratedWith": [
+      "DJ Flow",
+      "Lady Beat",
+      "Sir Echo"
+    ]
+  },
+  {
+    "Artist": "DJ Bass",
+    "Region": "Europe",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Dec": 8,
+      "Sep": 7,
+      "Oct": 1,
+      "Feb": 9,
+      "Apr": 12
+    },
+    "FollowersInMillions": 29.42,
+    "EarningsInMillionUSD": 8.97,
+    "CollaboratedWith": [
+      "Professor Flow",
+      "Dr. Beat",
+      "Lil Groove",
+      "Lady Blaze",
+      "Big Harmony"
+    ]
+  },
+  {
+    "Artist": "Young Storm",
+    "Region": "North America",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "May": 2,
+      "Nov": 13,
+      "Oct": 9,
+      "Sep": 10,
+      "Feb": 2,
+      "Dec": 8,
+      "Jan": 5,
+      "Apr": 1,
+      "Jun": 4,
+      "Mar": 14,
+      "Jul": 10,
+      "Aug": 12
+    },
+    "FollowersInMillions": 57.03,
+    "EarningsInMillionUSD": 31.01,
+    "CollaboratedWith": [
+      "Young Blaze",
+      "Professor Vibe",
+      "MC Blaze",
+      "Professor Storm"
+    ]
+  },
+  {
+    "Artist": "The Echo",
+    "Region": "South America",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Jun": 12,
+      "May": 2,
+      "Apr": 10,
+      "Oct": 13,
+      "Jan": 8,
+      "Nov": 14,
+      "Aug": 4,
+      "Sep": 15,
+      "Mar": 8,
+      "Dec": 8
+    },
+    "FollowersInMillions": 25.73,
+    "EarningsInMillionUSD": 23.79,
+    "CollaboratedWith": [
+      "The Groove",
+      "Young Bass"
+    ]
+  },
+  {
+    "Artist": "Young Flow",
+    "Region": "Asia",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Jan": 2,
+      "Oct": 15,
+      "Sep": 10,
+      "Jun": 0
+    },
+    "FollowersInMillions": 46.57,
+    "EarningsInMillionUSD": 44.7,
+    "CollaboratedWith": [
+      "Big Storm",
+      "Dr. Groove"
+    ]
+  },
+  {
+    "Artist": "Professor Blaze",
+    "Region": "Africa",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Sep": 8,
+      "Jan": 13,
+      "Aug": 1,
+      "Dec": 10,
+      "Nov": 4,
+      "Mar": 9,
+      "Oct": 0
+    },
+    "FollowersInMillions": 27.61,
+    "EarningsInMillionUSD": 41.77,
+    "CollaboratedWith": [
+      "Big Flow",
+      "MC Rhythm",
+      "The Echo",
+      "Professor Harmony"
+    ]
+  },
+  {
+    "Artist": "Lil Storm",
+    "Region": "Asia",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Sep": 2,
+      "Feb": 13,
+      "Mar": 12,
+      "Oct": 6,
+      "Jun": 2,
+      "Apr": 13
+    },
+    "FollowersInMillions": 16.21,
+    "EarningsInMillionUSD": 16.93,
+    "CollaboratedWith": [
+      "MC Echo",
+      "Dr. Echo",
+      "Dr. Rhythm",
+      "MC Beat",
+      "Lady Blaze"
+    ]
+  },
+  {
+    "Artist": "Young Beat",
+    "Region": "Africa",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Jun": 9,
+      "Jul": 13,
+      "Mar": 2,
+      "Dec": 2,
+      "Apr": 10,
+      "Aug": 9,
+      "Feb": 12,
+      "May": 9
+    },
+    "FollowersInMillions": 15.21,
+    "EarningsInMillionUSD": 23.55,
+    "CollaboratedWith": [
+      "Sir Storm",
+      "Dr. Blaze"
+    ]
+  },
+  {
+    "Artist": "Sir Flow",
+    "Region": "North America",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Jun": 11,
+      "Jul": 12,
+      "May": 8,
+      "Aug": 12,
+      "Jan": 13,
+      "Sep": 3,
+      "Oct": 2,
+      "Nov": 5,
+      "Mar": 8,
+      "Feb": 11
+    },
+    "FollowersInMillions": 13.03,
+    "EarningsInMillionUSD": 49.95,
+    "CollaboratedWith": [
+      "Sir Echo",
+      "DJ Flow",
+      "Lady Echo",
+      "The Beat",
+      "Lady Harmony",
+      "Professor Bass"
+    ]
+  },
+  {
+    "Artist": "Dr. Beat",
+    "Region": "North America",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "May": 6,
+      "Apr": 3,
+      "Sep": 15,
+      "Mar": 11
+    },
+    "FollowersInMillions": 83.11,
+    "EarningsInMillionUSD": 6.63,
+    "CollaboratedWith": [
+      "Sir Flow",
+      "The Echo"
+    ]
+  },
+  {
+    "Artist": "Lil Harmony",
+    "Region": "Africa",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Aug": 13,
+      "Oct": 11,
+      "Mar": 3,
+      "Dec": 0,
+      "Nov": 13,
+      "Jul": 10,
+      "Feb": 0,
+      "Jun": 12,
+      "Jan": 11
+    },
+    "FollowersInMillions": 41.36,
+    "EarningsInMillionUSD": 38.12,
+    "CollaboratedWith": [
+      "Dr. Harmony",
+      "Big Harmony",
+      "Dr. Vibe",
+      "Lil Vibe"
+    ]
+  },
+  {
+    "Artist": "Lady Storm",
+    "Region": "Europe",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Jun": 3,
+      "Nov": 12,
+      "Oct": 3,
+      "Mar": 14,
+      "Dec": 1,
+      "May": 0,
+      "Jan": 1,
+      "Sep": 15
+    },
+    "FollowersInMillions": 82.8,
+    "EarningsInMillionUSD": 17.68,
+    "CollaboratedWith": [
+      "Sir Beat",
+      "Dr. Beat",
+      "MC Harmony",
+      "Professor Beat",
+      "Young Bass"
+    ]
+  },
+  {
+    "Artist": "Young Harmony",
+    "Region": "Europe",
+    "Genre": "Classical",
+    "MonthlyConcerts": {
+      "Mar": 9,
+      "Sep": 13,
+      "Jun": 11,
+      "Nov": 1,
+      "Feb": 5,
+      "Jan": 6,
+      "May": 4,
+      "Oct": 3,
+      "Apr": 5,
+      "Jul": 15
+    },
+    "FollowersInMillions": 44.42,
+    "EarningsInMillionUSD": 18.61,
+    "CollaboratedWith": [
+      "Lady Blaze",
+      "The Harmony"
+    ]
+  },
+  {
+    "Artist": "DJ Groove",
+    "Region": "South America",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Jul": 10,
+      "Sep": 9,
+      "Apr": 11,
+      "Dec": 5,
+      "May": 15
+    },
+    "FollowersInMillions": 27.25,
+    "EarningsInMillionUSD": 37.39,
+    "CollaboratedWith": [
+      "Young Vibe",
+      "The Vibe",
+      "DJ Blaze",
+      "The Storm"
+    ]
+  },
+  {
+    "Artist": "Dr. Bass",
+    "Region": "Oceania",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Feb": 10,
+      "Apr": 8,
+      "Nov": 7,
+      "Dec": 8,
+      "Jul": 10,
+      "Oct": 0,
+      "Mar": 13,
+      "Sep": 8
+    },
+    "FollowersInMillions": 81.19,
+    "EarningsInMillionUSD": 38.14,
+    "CollaboratedWith": [
+      "Professor Beat",
+      "The Rhythm",
+      "The Blaze"
+    ]
+  },
+  {
+    "Artist": "Sir Blaze",
+    "Region": "Asia",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Nov": 0,
+      "Sep": 11,
+      "Jan": 9,
+      "Jun": 4,
+      "Feb": 4,
+      "Apr": 8,
+      "May": 1
+    },
+    "FollowersInMillions": 52.09,
+    "EarningsInMillionUSD": 12.98,
+    "CollaboratedWith": [
+      "Lady Groove",
+      "Lil Blaze",
+      "Big Blaze",
+      "DJ Rhythm",
+      "The Vibe"
+    ]
+  },
+  {
+    "Artist": "Professor Bass",
+    "Region": "South America",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Apr": 5,
+      "Jul": 3,
+      "Feb": 0,
+      "Oct": 1,
+      "May": 15,
+      "Sep": 4
+    },
+    "FollowersInMillions": 17.27,
+    "EarningsInMillionUSD": 14.41,
+    "CollaboratedWith": [
+      "DJ Echo",
+      "Young Beat",
+      "Professor Groove",
+      "Big Bass"
+    ]
+  },
+  {
+    "Artist": "DJ Flow",
+    "Region": "Europe",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Apr": 10,
+      "May": 8,
+      "Oct": 3,
+      "Jan": 8,
+      "Sep": 12,
+      "Jun": 10,
+      "Feb": 2,
+      "Nov": 9
+    },
+    "FollowersInMillions": 79.88,
+    "EarningsInMillionUSD": 29.1,
+    "CollaboratedWith": [
+      "Sir Echo",
+      "The Flow",
+      "Young Bass",
+      "Sir Storm",
+      "Big Vibe"
+    ]
+  },
+  {
+    "Artist": "MC Groove",
+    "Region": "Europe",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Apr": 11,
+      "Dec": 15,
+      "Mar": 8,
+      "Oct": 4,
+      "Sep": 13
+    },
+    "FollowersInMillions": 72.63,
+    "EarningsInMillionUSD": 17.32,
+    "CollaboratedWith": [
+      "The Harmony",
+      "Lil Bass",
+      "Lady Rhythm",
+      "Big Groove",
+      "Professor Flow",
+      "Sir Flow"
+    ]
+  },
+  {
+    "Artist": "DJ Storm",
+    "Region": "Africa",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Mar": 13,
+      "Nov": 13,
+      "Jan": 7,
+      "Aug": 7
+    },
+    "FollowersInMillions": 92.4,
+    "EarningsInMillionUSD": 37.0,
+    "CollaboratedWith": [
+      "MC Storm",
+      "Professor Vibe",
+      "Lady Storm"
+    ]
+  },
+  {
+    "Artist": "Lady Blaze",
+    "Region": "Europe",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Mar": 2,
+      "Apr": 12,
+      "Oct": 15,
+      "Jul": 15,
+      "Feb": 11,
+      "Sep": 12,
+      "May": 12,
+      "Dec": 5,
+      "Jun": 13,
+      "Aug": 0
+    },
+    "FollowersInMillions": 51.15,
+    "EarningsInMillionUSD": 8.54,
+    "CollaboratedWith": [
+      "Lady Storm",
+      "The Groove",
+      "DJ Storm",
+      "Sir Beat",
+      "Sir Groove"
+    ]
+  },
+  {
+    "Artist": "Lil Groove",
+    "Region": "Europe",
+    "Genre": "Classical",
+    "MonthlyConcerts": {
+      "Sep": 7,
+      "Dec": 9,
+      "Oct": 9,
+      "Apr": 11,
+      "Mar": 6,
+      "Jul": 1,
+      "Jan": 14
+    },
+    "FollowersInMillions": 7.1,
+    "EarningsInMillionUSD": 19.48,
+    "CollaboratedWith": [
+      "Young Flow",
+      "DJ Storm",
+      "DJ Blaze",
+      "DJ Echo"
+    ]
+  },
+  {
+    "Artist": "DJ Harmony",
+    "Region": "Europe",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Sep": 5,
+      "Dec": 10,
+      "Jan": 9,
+      "May": 11
+    },
+    "FollowersInMillions": 33.95,
+    "EarningsInMillionUSD": 40.27,
+    "CollaboratedWith": [
+      "DJ Groove",
+      "Dr. Harmony",
+      "Sir Beat",
+      "Sir Bass"
+    ]
+  },
+  {
+    "Artist": "Lady Groove",
+    "Region": "Asia",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Nov": 0,
+      "Aug": 1,
+      "Jun": 3,
+      "Sep": 0,
+      "Mar": 11,
+      "Jan": 3
+    },
+    "FollowersInMillions": 65.59,
+    "EarningsInMillionUSD": 19.41,
+    "CollaboratedWith": [
+      "Professor Harmony",
+      "Lady Rhythm",
+      "The Blaze",
+      "Sir Blaze",
+      "DJ Echo",
+      "DJ Groove"
+    ]
+  },
+  {
+    "Artist": "Sir Beat",
+    "Region": "South America",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Nov": 15,
+      "Jan": 4,
+      "Apr": 14,
+      "May": 5,
+      "Feb": 6
+    },
+    "FollowersInMillions": 87.09,
+    "EarningsInMillionUSD": 46.66,
+    "CollaboratedWith": [
+      "Professor Flow",
+      "Sir Groove",
+      "Dr. Beat",
+      "Lil Flow",
+      "Professor Vibe"
+    ]
+  },
+  {
+    "Artist": "MC Flow",
+    "Region": "North America",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Jan": 13,
+      "Mar": 15,
+      "Dec": 0,
+      "Apr": 7,
+      "Feb": 9,
+      "Sep": 14,
+      "Jun": 4,
+      "Jul": 0,
+      "May": 9,
+      "Aug": 12,
+      "Oct": 15
+    },
+    "FollowersInMillions": 24.89,
+    "EarningsInMillionUSD": 37.97,
+    "CollaboratedWith": [
+      "Sir Beat",
+      "Professor Bass",
+      "Young Blaze"
+    ]
+  },
+  {
+    "Artist": "MC Storm",
+    "Region": "Africa",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Jan": 15,
+      "Jun": 6,
+      "Jul": 11,
+      "May": 12,
+      "Sep": 12,
+      "Feb": 6
+    },
+    "FollowersInMillions": 68.06,
+    "EarningsInMillionUSD": 21.16,
+    "CollaboratedWith": [
+      "DJ Storm",
+      "Young Echo",
+      "The Rhythm",
+      "Big Vibe",
+      "Young Storm",
+      "Professor Rhythm"
+    ]
+  },
+  {
+    "Artist": "Dr. Echo",
+    "Region": "North America",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Mar": 1,
+      "Oct": 8,
+      "Dec": 4,
+      "Apr": 9,
+      "Feb": 2,
+      "Nov": 3,
+      "Aug": 13,
+      "Sep": 13
+    },
+    "FollowersInMillions": 22.18,
+    "EarningsInMillionUSD": 13.19,
+    "CollaboratedWith": [
+      "MC Blaze",
+      "Dr. Groove",
+      "Sir Flow",
+      "Big Storm",
+      "The Echo"
+    ]
+  },
+  {
+    "Artist": "Big Bass",
+    "Region": "Europe",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Jul": 6,
+      "Nov": 15,
+      "Feb": 3,
+      "Sep": 14,
+      "Dec": 3,
+      "Jun": 15,
+      "Jan": 7,
+      "Apr": 7,
+      "Oct": 12
+    },
+    "FollowersInMillions": 42.48,
+    "EarningsInMillionUSD": 48.6,
+    "CollaboratedWith": [
+      "MC Groove",
+      "The Vibe",
+      "The Harmony"
+    ]
+  },
+  {
+    "Artist": "Professor Echo",
+    "Region": "Oceania",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "May": 10,
+      "Dec": 14,
+      "Jul": 4,
+      "Apr": 9
+    },
+    "FollowersInMillions": 97.89,
+    "EarningsInMillionUSD": 0.49,
+    "CollaboratedWith": [
+      "Sir Rhythm",
+      "The Groove",
+      "Professor Flow",
+      "MC Beat"
+    ]
+  },
+  {
+    "Artist": "Young Blaze",
+    "Region": "Asia",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Jul": 15,
+      "May": 5,
+      "Nov": 0,
+      "Aug": 15,
+      "Apr": 8,
+      "Dec": 15,
+      "Jan": 5,
+      "Jun": 14,
+      "Oct": 8
+    },
+    "FollowersInMillions": 39.56,
+    "EarningsInMillionUSD": 42.04,
+    "CollaboratedWith": [
+      "Young Flow",
+      "The Harmony",
+      "MC Bass"
+    ]
+  },
+  {
+    "Artist": "Young Echo",
+    "Region": "Europe",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Jan": 1,
+      "May": 11,
+      "Aug": 3,
+      "Mar": 7,
+      "Apr": 12,
+      "Sep": 8,
+      "Jul": 0,
+      "Nov": 15,
+      "Dec": 2,
+      "Oct": 11,
+      "Feb": 1
+    },
+    "FollowersInMillions": 32.67,
+    "EarningsInMillionUSD": 9.42,
+    "CollaboratedWith": [
+      "Professor Echo",
+      "The Vibe"
+    ]
+  },
+  {
+    "Artist": "MC Rhythm",
+    "Region": "North America",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Aug": 13,
+      "May": 10,
+      "Jul": 15,
+      "Jan": 5,
+      "Sep": 14,
+      "Oct": 2,
+      "Mar": 12
+    },
+    "FollowersInMillions": 72.51,
+    "EarningsInMillionUSD": 44.07,
+    "CollaboratedWith": [
+      "Young Harmony",
+      "Lil Vibe",
+      "Dr. Flow",
+      "MC Harmony"
+    ]
+  },
+  {
+    "Artist": "Professor Flow",
+    "Region": "Africa",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Apr": 12,
+      "Jul": 4,
+      "Jun": 3,
+      "Aug": 4,
+      "Feb": 6,
+      "May": 5,
+      "Nov": 12,
+      "Jan": 11
+    },
+    "FollowersInMillions": 1.45,
+    "EarningsInMillionUSD": 43.56,
+    "CollaboratedWith": [
+      "Sir Vibe",
+      "Sir Groove",
+      "Lady Bass"
+    ]
+  },
+  {
+    "Artist": "Professor Beat",
+    "Region": "North America",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Mar": 6,
+      "Jan": 15,
+      "May": 3,
+      "Sep": 10,
+      "Jun": 12,
+      "Oct": 1,
+      "Dec": 14,
+      "Nov": 2,
+      "Jul": 3,
+      "Feb": 2,
+      "Apr": 4,
+      "Aug": 12
+    },
+    "FollowersInMillions": 46.62,
+    "EarningsInMillionUSD": 38.43,
+    "CollaboratedWith": [
+      "DJ Rhythm",
+      "Sir Harmony",
+      "Dr. Groove"
+    ]
+  },
+  {
+    "Artist": "Professor Harmony",
+    "Region": "Oceania",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Dec": 2,
+      "Apr": 9,
+      "Oct": 14,
+      "Feb": 12,
+      "Aug": 6,
+      "Sep": 3,
+      "May": 7,
+      "Nov": 4
+    },
+    "FollowersInMillions": 36.19,
+    "EarningsInMillionUSD": 36.71,
+    "CollaboratedWith": [
+      "Dr. Echo",
+      "Lady Beat",
+      "Young Bass"
+    ]
+  },
+  {
+    "Artist": "Big Blaze",
+    "Region": "Europe",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Nov": 3,
+      "Jan": 1,
+      "Apr": 4,
+      "Oct": 4,
+      "May": 9,
+      "Jul": 5,
+      "Jun": 8,
+      "Mar": 11,
+      "Dec": 2
+    },
+    "FollowersInMillions": 43.57,
+    "EarningsInMillionUSD": 12.89,
+    "CollaboratedWith": [
+      "Sir Beat",
+      "Sir Harmony",
+      "Young Harmony"
+    ]
+  },
+  {
+    "Artist": "MC Bass",
+    "Region": "Asia",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Aug": 8,
+      "Oct": 8,
+      "Mar": 7,
+      "Apr": 10
+    },
+    "FollowersInMillions": 51.28,
+    "EarningsInMillionUSD": 6.42,
+    "CollaboratedWith": [
+      "Sir Rhythm",
+      "Professor Bass"
+    ]
+  },
+  {
+    "Artist": "The Rhythm",
+    "Region": "Europe",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Sep": 11,
+      "Jun": 3,
+      "May": 12,
+      "Nov": 11,
+      "Mar": 5,
+      "Aug": 9,
+      "Feb": 7,
+      "Jul": 7,
+      "Oct": 2
+    },
+    "FollowersInMillions": 33.54,
+    "EarningsInMillionUSD": 45.2,
+    "CollaboratedWith": [
+      "Lil Groove",
+      "MC Echo",
+      "Lady Echo",
+      "Lil Storm",
+      "Dr. Vibe"
+    ]
+  },
+  {
+    "Artist": "Lil Rhythm",
+    "Region": "Africa",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Mar": 2,
+      "Apr": 5,
+      "Feb": 15,
+      "Dec": 14,
+      "Jul": 9,
+      "Jun": 0,
+      "May": 6,
+      "Sep": 9,
+      "Aug": 12
+    },
+    "FollowersInMillions": 4.06,
+    "EarningsInMillionUSD": 41.1,
+    "CollaboratedWith": [
+      "Big Bass",
+      "The Blaze"
+    ]
+  },
+  {
+    "Artist": "Sir Bass",
+    "Region": "Europe",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Sep": 9,
+      "Oct": 10,
+      "Nov": 6,
+      "May": 14,
+      "Jun": 9
+    },
+    "FollowersInMillions": 32.37,
+    "EarningsInMillionUSD": 46.6,
+    "CollaboratedWith": [
+      "Lil Rhythm",
+      "MC Blaze"
+    ]
+  },
+  {
+    "Artist": "Sir Rhythm",
+    "Region": "North America",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Jan": 3,
+      "Jun": 9,
+      "Oct": 0,
+      "Apr": 13
+    },
+    "FollowersInMillions": 13.16,
+    "EarningsInMillionUSD": 33.29,
+    "CollaboratedWith": [
+      "Sir Groove",
+      "Lil Vibe",
+      "Lil Harmony",
+      "DJ Storm",
+      "Dr. Blaze",
+      "Lady Groove"
+    ]
+  },
+  {
+    "Artist": "Big Harmony",
+    "Region": "Oceania",
+    "Genre": "Classical",
+    "MonthlyConcerts": {
+      "Jul": 0,
+      "Oct": 9,
+      "Nov": 8,
+      "Mar": 5,
+      "Jan": 4
+    },
+    "FollowersInMillions": 62.26,
+    "EarningsInMillionUSD": 29.76,
+    "CollaboratedWith": [
+      "Young Echo",
+      "DJ Groove",
+      "Sir Beat",
+      "Dr. Bass",
+      "Dr. Echo"
+    ]
+  },
+  {
+    "Artist": "Dr. Rhythm",
+    "Region": "North America",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Aug": 8,
+      "Apr": 6,
+      "Dec": 8,
+      "May": 7,
+      "Feb": 7,
+      "Nov": 6,
+      "Sep": 6
+    },
+    "FollowersInMillions": 38.54,
+    "EarningsInMillionUSD": 45.79,
+    "CollaboratedWith": [
+      "Young Echo",
+      "Lady Bass"
+    ]
+  },
+  {
+    "Artist": "Professor Vibe",
+    "Region": "North America",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Jul": 0,
+      "May": 5,
+      "Oct": 13,
+      "Aug": 15,
+      "Nov": 5,
+      "Apr": 5,
+      "Mar": 9
+    },
+    "FollowersInMillions": 89.55,
+    "EarningsInMillionUSD": 19.33,
+    "CollaboratedWith": [
+      "Young Beat",
+      "Sir Blaze",
+      "The Flow",
+      "Lil Rhythm"
+    ]
+  },
+  {
+    "Artist": "The Blaze",
+    "Region": "Asia",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Apr": 8,
+      "Feb": 2,
+      "Dec": 1,
+      "Jan": 14,
+      "Aug": 15,
+      "May": 8,
+      "Mar": 9,
+      "Jun": 1
+    },
+    "FollowersInMillions": 23.95,
+    "EarningsInMillionUSD": 5.89,
+    "CollaboratedWith": [
+      "MC Bass",
+      "Big Groove",
+      "Dr. Bass",
+      "Dr. Vibe"
+    ]
+  },
+  {
+    "Artist": "Young Vibe",
+    "Region": "South America",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Nov": 8,
+      "Oct": 12,
+      "Feb": 13,
+      "Aug": 8,
+      "Mar": 13
+    },
+    "FollowersInMillions": 65.19,
+    "EarningsInMillionUSD": 45.84,
+    "CollaboratedWith": [
+      "Lady Groove",
+      "Lil Rhythm",
+      "Professor Flow",
+      "Sir Rhythm",
+      "The Harmony"
+    ]
+  },
+  {
+    "Artist": "Dr. Storm",
+    "Region": "Africa",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Jul": 9,
+      "Feb": 10,
+      "Jan": 2,
+      "Sep": 10,
+      "Mar": 8,
+      "Oct": 3,
+      "Nov": 13,
+      "Jun": 9,
+      "Dec": 5
+    },
+    "FollowersInMillions": 98.98,
+    "EarningsInMillionUSD": 41.17,
+    "CollaboratedWith": [
+      "DJ Harmony",
+      "The Bass",
+      "Professor Vibe",
+      "MC Groove",
+      "Lady Vibe",
+      "Young Rhythm"
+    ]
+  },
+  {
+    "Artist": "MC Harmony",
+    "Region": "South America",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Feb": 3,
+      "Jun": 9,
+      "Oct": 4,
+      "Nov": 1,
+      "Sep": 4,
+      "Mar": 15,
+      "Jul": 12,
+      "Jan": 5
+    },
+    "FollowersInMillions": 32.13,
+    "EarningsInMillionUSD": 11.34,
+    "CollaboratedWith": [
+      "Young Echo",
+      "The Flow",
+      "Lil Flow",
+      "Sir Flow",
+      "Sir Echo",
+      "DJ Storm"
+    ]
+  },
+  {
+    "Artist": "DJ Rhythm",
+    "Region": "Oceania",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Jun": 9,
+      "Jul": 11,
+      "Nov": 14,
+      "Sep": 11,
+      "Feb": 7,
+      "Mar": 15,
+      "Jan": 0
+    },
+    "FollowersInMillions": 3.67,
+    "EarningsInMillionUSD": 35.33,
+    "CollaboratedWith": [
+      "Professor Rhythm",
+      "Professor Groove",
+      "The Flow",
+      "DJ Groove"
+    ]
+  },
+  {
+    "Artist": "Dr. Blaze",
+    "Region": "Oceania",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Jan": 11,
+      "Oct": 9,
+      "Nov": 8,
+      "Aug": 0
+    },
+    "FollowersInMillions": 92.92,
+    "EarningsInMillionUSD": 46.19,
+    "CollaboratedWith": [
+      "Sir Bass",
+      "Lil Vibe",
+      "Lil Storm",
+      "The Groove",
+      "Dr. Bass"
+    ]
+  },
+  {
+    "Artist": "Young Rhythm",
+    "Region": "Africa",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Jan": 5,
+      "Jul": 1,
+      "Oct": 12,
+      "Mar": 3,
+      "Sep": 8,
+      "Dec": 1,
+      "Aug": 2,
+      "May": 12,
+      "Nov": 12,
+      "Apr": 15
+    },
+    "FollowersInMillions": 48.91,
+    "EarningsInMillionUSD": 29.17,
+    "CollaboratedWith": [
+      "Lil Harmony",
+      "Young Harmony"
+    ]
+  },
+  {
+    "Artist": "Big Vibe",
+    "Region": "Europe",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Jun": 15,
+      "Mar": 0,
+      "Apr": 11,
+      "May": 12,
+      "Jul": 14,
+      "Jan": 12,
+      "Nov": 12,
+      "Oct": 1,
+      "Sep": 3,
+      "Dec": 10
+    },
+    "FollowersInMillions": 8.65,
+    "EarningsInMillionUSD": 29.86,
+    "CollaboratedWith": [
+      "Big Groove",
+      "Dr. Harmony",
+      "DJ Rhythm",
+      "Dr. Bass",
+      "Young Blaze",
+      "MC Bass"
+    ]
+  },
+  {
+    "Artist": "Professor Groove",
+    "Region": "South America",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Jul": 2,
+      "May": 7,
+      "Apr": 7,
+      "Mar": 14,
+      "Sep": 14,
+      "Jan": 15,
+      "Jun": 8,
+      "Nov": 13,
+      "Dec": 3
+    },
+    "FollowersInMillions": 25.16,
+    "EarningsInMillionUSD": 15.88,
+    "CollaboratedWith": [
+      "Sir Harmony",
+      "Lady Bass",
+      "Lil Blaze",
+      "Sir Beat"
+    ]
+  },
+  {
+    "Artist": "DJ Beat",
+    "Region": "Asia",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Jan": 8,
+      "May": 4,
+      "Mar": 10,
+      "Feb": 8,
+      "Oct": 9
+    },
+    "FollowersInMillions": 48.67,
+    "EarningsInMillionUSD": 12.47,
+    "CollaboratedWith": [
+      "Sir Blaze",
+      "Professor Echo",
+      "Lady Harmony",
+      "MC Bass",
+      "MC Groove",
+      "Sir Echo"
+    ]
+  },
+  {
+    "Artist": "The Beat",
+    "Region": "Africa",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "May": 1,
+      "Apr": 12,
+      "Aug": 0,
+      "Nov": 6,
+      "Mar": 15,
+      "Jan": 0,
+      "Feb": 7,
+      "Dec": 6,
+      "Sep": 12,
+      "Jul": 12,
+      "Jun": 7
+    },
+    "FollowersInMillions": 4.77,
+    "EarningsInMillionUSD": 20.1,
+    "CollaboratedWith": [
+      "Professor Rhythm",
+      "Dr. Blaze",
+      "Big Blaze",
+      "Professor Blaze",
+      "Big Beat",
+      "DJ Vibe"
+    ]
+  },
+  {
+    "Artist": "Lil Blaze",
+    "Region": "Africa",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Oct": 2,
+      "May": 14,
+      "Jul": 5,
+      "Aug": 7
+    },
+    "FollowersInMillions": 39.7,
+    "EarningsInMillionUSD": 37.26,
+    "CollaboratedWith": [
+      "Dr. Echo",
+      "MC Groove",
+      "Big Bass",
+      "Young Bass"
+    ]
+  },
+  {
+    "Artist": "Sir Echo",
+    "Region": "Europe",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Jan": 12,
+      "Dec": 11,
+      "Oct": 5,
+      "Aug": 7,
+      "Apr": 8
+    },
+    "FollowersInMillions": 61.26,
+    "EarningsInMillionUSD": 49.19,
+    "CollaboratedWith": [
+      "Sir Storm",
+      "Professor Blaze"
+    ]
+  },
+  {
+    "Artist": "The Harmony",
+    "Region": "North America",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "May": 15,
+      "Apr": 12,
+      "Sep": 8,
+      "Dec": 0,
+      "Feb": 15,
+      "Oct": 1,
+      "Nov": 5,
+      "Aug": 8
+    },
+    "FollowersInMillions": 75.44,
+    "EarningsInMillionUSD": 11.62,
+    "CollaboratedWith": [
+      "Dr. Rhythm",
+      "Big Rhythm",
+      "Big Beat",
+      "Lady Blaze"
+    ]
+  },
+  {
+    "Artist": "MC Blaze",
+    "Region": "Africa",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Jul": 13,
+      "Aug": 14,
+      "Jan": 8,
+      "Nov": 4,
+      "Mar": 3,
+      "Sep": 2,
+      "May": 10,
+      "Jun": 0,
+      "Apr": 5,
+      "Dec": 8
+    },
+    "FollowersInMillions": 28.18,
+    "EarningsInMillionUSD": 47.59,
+    "CollaboratedWith": [
+      "DJ Harmony",
+      "Dr. Echo",
+      "Sir Flow"
+    ]
+  },
+  {
+    "Artist": "Big Storm",
+    "Region": "Africa",
+    "Genre": "Pop",
+    "MonthlyConcerts": {
+      "Mar": 3,
+      "Apr": 1,
+      "Jul": 0,
+      "Dec": 10,
+      "Jun": 11,
+      "Oct": 2,
+      "Sep": 6,
+      "Nov": 0,
+      "May": 15
+    },
+    "FollowersInMillions": 76.19,
+    "EarningsInMillionUSD": 12.14,
+    "CollaboratedWith": [
+      "Dr. Harmony",
+      "Sir Harmony"
+    ]
+  },
+  {
+    "Artist": "Dr. Vibe",
+    "Region": "Asia",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Oct": 14,
+      "Aug": 11,
+      "Nov": 8,
+      "Jan": 13,
+      "Dec": 11,
+      "Feb": 10,
+      "Sep": 7
+    },
+    "FollowersInMillions": 71.35,
+    "EarningsInMillionUSD": 45.32,
+    "CollaboratedWith": [
+      "Young Harmony",
+      "The Harmony",
+      "Lil Rhythm"
+    ]
+  },
+  {
+    "Artist": "Professor Rhythm",
+    "Region": "Europe",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Nov": 6,
+      "Feb": 13,
+      "Oct": 0,
+      "Dec": 12,
+      "Mar": 10,
+      "Aug": 5,
+      "May": 14
+    },
+    "FollowersInMillions": 67.2,
+    "EarningsInMillionUSD": 0.28,
+    "CollaboratedWith": [
+      "Lady Echo",
+      "Professor Blaze"
+    ]
+  },
+  {
+    "Artist": "Dr. Harmony",
+    "Region": "South America",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Nov": 11,
+      "Mar": 7,
+      "Jan": 5,
+      "May": 14,
+      "Feb": 1
+    },
+    "FollowersInMillions": 53.15,
+    "EarningsInMillionUSD": 44.32,
+    "CollaboratedWith": [
+      "Young Rhythm",
+      "DJ Echo",
+      "Dr. Rhythm"
+    ]
+  },
+  {
+    "Artist": "Dr. Flow",
+    "Region": "South America",
+    "Genre": "Classical",
+    "MonthlyConcerts": {
+      "Feb": 14,
+      "Mar": 7,
+      "Jul": 14,
+      "Nov": 9,
+      "Oct": 0,
+      "Jun": 10
+    },
+    "FollowersInMillions": 30.86,
+    "EarningsInMillionUSD": 28.83,
+    "CollaboratedWith": [
+      "DJ Groove",
+      "Lil Vibe",
+      "Lil Groove",
+      "Big Beat"
+    ]
+  },
+  {
+    "Artist": "Lil Vibe",
+    "Region": "North America",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Aug": 8,
+      "Jul": 9,
+      "Mar": 14,
+      "Oct": 15,
+      "Jan": 5,
+      "Apr": 10,
+      "Dec": 14,
+      "Nov": 2
+    },
+    "FollowersInMillions": 8.04,
+    "EarningsInMillionUSD": 8.95,
+    "CollaboratedWith": [
+      "Sir Echo",
+      "Big Beat",
+      "Big Vibe",
+      "MC Beat",
+      "Lady Storm"
+    ]
+  },
+  {
+    "Artist": "Young Bass",
+    "Region": "Oceania",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Jun": 3,
+      "Nov": 11,
+      "Aug": 8,
+      "Mar": 11,
+      "Sep": 3,
+      "Oct": 14,
+      "Jan": 7,
+      "Jul": 14,
+      "Dec": 6
+    },
+    "FollowersInMillions": 37.14,
+    "EarningsInMillionUSD": 40.19,
+    "CollaboratedWith": [
+      "The Harmony",
+      "Lil Harmony",
+      "Lady Echo",
+      "Lady Rhythm"
+    ]
+  },
+  {
+    "Artist": "DJ Echo",
+    "Region": "Africa",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "May": 3,
+      "Nov": 8,
+      "Dec": 3,
+      "Mar": 1,
+      "Jul": 8,
+      "Sep": 3,
+      "Oct": 14,
+      "Jun": 14,
+      "Apr": 6
+    },
+    "FollowersInMillions": 84.38,
+    "EarningsInMillionUSD": 12.11,
+    "CollaboratedWith": [
+      "Lil Storm",
+      "Sir Rhythm",
+      "MC Blaze"
+    ]
+  },
+  {
+    "Artist": "Big Flow",
+    "Region": "Europe",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Dec": 0,
+      "Oct": 10,
+      "Jul": 8,
+      "Sep": 0,
+      "Mar": 11,
+      "Jun": 15,
+      "Apr": 0,
+      "Nov": 5
+    },
+    "FollowersInMillions": 31.78,
+    "EarningsInMillionUSD": 16.75,
+    "CollaboratedWith": [
+      "Dr. Bass",
+      "Professor Blaze",
+      "DJ Vibe",
+      "Young Beat",
+      "MC Flow",
+      "Lil Beat"
+    ]
+  },
+  {
+    "Artist": "DJ Blaze",
+    "Region": "Africa",
+    "Genre": "Classical",
+    "MonthlyConcerts": {
+      "May": 2,
+      "Sep": 0,
+      "Dec": 3,
+      "Mar": 2
+    },
+    "FollowersInMillions": 17.26,
+    "EarningsInMillionUSD": 10.37,
+    "CollaboratedWith": [
+      "Dr. Groove",
+      "Professor Storm",
+      "Young Storm",
+      "MC Beat",
+      "DJ Storm",
+      "Big Blaze"
+    ]
+  },
+  {
+    "Artist": "The Bass",
+    "Region": "Oceania",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Jun": 2,
+      "Jan": 15,
+      "Oct": 4,
+      "Mar": 7,
+      "Feb": 15
+    },
+    "FollowersInMillions": 70.8,
+    "EarningsInMillionUSD": 30.35,
+    "CollaboratedWith": [
+      "Lil Storm",
+      "Young Rhythm",
+      "MC Groove",
+      "Sir Vibe"
+    ]
+  },
+  {
+    "Artist": "Lady Beat",
+    "Region": "Europe",
+    "Genre": "Country",
+    "MonthlyConcerts": {
+      "Nov": 1,
+      "May": 11,
+      "Jan": 10,
+      "Feb": 8,
+      "Mar": 8,
+      "Aug": 14,
+      "Jun": 12,
+      "Jul": 3,
+      "Apr": 13
+    },
+    "FollowersInMillions": 14.68,
+    "EarningsInMillionUSD": 19.09,
+    "CollaboratedWith": [
+      "Young Bass",
+      "DJ Vibe",
+      "MC Harmony"
+    ]
+  },
+  {
+    "Artist": "MC Beat",
+    "Region": "Europe",
+    "Genre": "R&B",
+    "MonthlyConcerts": {
+      "Sep": 7,
+      "May": 13,
+      "Oct": 11,
+      "Jan": 5,
+      "Feb": 9,
+      "Dec": 12,
+      "Aug": 9,
+      "Mar": 10,
+      "Jun": 9,
+      "Apr": 0
+    },
+    "FollowersInMillions": 88.54,
+    "EarningsInMillionUSD": 31.83,
+    "CollaboratedWith": [
+      "Professor Storm",
+      "DJ Blaze",
+      "Big Rhythm",
+      "Lil Vibe",
+      "DJ Flow",
+      "The Vibe"
+    ]
+  },
+  {
+    "Artist": "Big Groove",
+    "Region": "South America",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Jun": 10,
+      "Feb": 1,
+      "Apr": 12,
+      "Aug": 7,
+      "Oct": 8,
+      "Dec": 8,
+      "Mar": 1,
+      "Nov": 0
+    },
+    "FollowersInMillions": 73.23,
+    "EarningsInMillionUSD": 13.39,
+    "CollaboratedWith": [
+      "The Flow",
+      "Sir Echo",
+      "Young Beat"
+    ]
+  },
+  {
+    "Artist": "Young Groove",
+    "Region": "Asia",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Feb": 10,
+      "Jun": 4,
+      "Oct": 4,
+      "Jan": 11,
+      "Nov": 3,
+      "Apr": 12,
+      "Jul": 3,
+      "Mar": 2,
+      "Sep": 3
+    },
+    "FollowersInMillions": 31.48,
+    "EarningsInMillionUSD": 22.75,
+    "CollaboratedWith": [
+      "Lil Beat",
+      "Lady Rhythm",
+      "Dr. Flow",
+      "Lil Blaze",
+      "Professor Bass"
+    ]
+  },
+  {
+    "Artist": "Lady Rhythm",
+    "Region": "Oceania",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Jul": 14,
+      "Mar": 5,
+      "Aug": 15,
+      "Apr": 9
+    },
+    "FollowersInMillions": 78.92,
+    "EarningsInMillionUSD": 22.56,
+    "CollaboratedWith": [
+      "Sir Echo",
+      "Sir Beat",
+      "Sir Bass",
+      "Professor Harmony",
+      "Young Harmony",
+      "Big Rhythm"
+    ]
+  },
+  {
+    "Artist": "Lil Flow",
+    "Region": "Europe",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Oct": 10,
+      "Sep": 4,
+      "Jul": 9,
+      "May": 7,
+      "Jun": 8,
+      "Mar": 7,
+      "Nov": 3,
+      "Jan": 15,
+      "Aug": 4,
+      "Apr": 11,
+      "Feb": 8
+    },
+    "FollowersInMillions": 56.75,
+    "EarningsInMillionUSD": 48.96,
+    "CollaboratedWith": [
+      "Big Bass",
+      "The Bass",
+      "Dr. Blaze"
+    ]
+  },
+  {
+    "Artist": "Lil Bass",
+    "Region": "North America",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Jun": 9,
+      "Mar": 11,
+      "Aug": 8,
+      "May": 3,
+      "Apr": 8,
+      "Oct": 1,
+      "Jul": 5
+    },
+    "FollowersInMillions": 47.41,
+    "EarningsInMillionUSD": 9.72,
+    "CollaboratedWith": [
+      "Lady Storm",
+      "MC Beat",
+      "Lady Flow",
+      "Sir Echo",
+      "Big Bass"
+    ]
+  },
+  {
+    "Artist": "Big Rhythm",
+    "Region": "South America",
+    "Genre": "Electronic",
+    "MonthlyConcerts": {
+      "Mar": 4,
+      "Jul": 8,
+      "Feb": 14,
+      "Jan": 2,
+      "Aug": 8,
+      "Oct": 9,
+      "Apr": 5,
+      "Jun": 13,
+      "May": 10,
+      "Sep": 11
+    },
+    "FollowersInMillions": 31.85,
+    "EarningsInMillionUSD": 20.13,
+    "CollaboratedWith": [
+      "Young Storm",
+      "Dr. Harmony"
+    ]
+  },
+  {
+    "Artist": "Big Beat",
+    "Region": "Europe",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Jun": 2,
+      "Oct": 13,
+      "Sep": 14,
+      "Aug": 1,
+      "Jul": 14,
+      "May": 12,
+      "Jan": 3,
+      "Mar": 14,
+      "Dec": 8,
+      "Apr": 1
+    },
+    "FollowersInMillions": 58.45,
+    "EarningsInMillionUSD": 39.91,
+    "CollaboratedWith": [
+      "Young Beat",
+      "Sir Storm"
+    ]
+  },
+  {
+    "Artist": "Lady Vibe",
+    "Region": "Europe",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Jan": 5,
+      "Apr": 6,
+      "Dec": 4,
+      "Feb": 2,
+      "Nov": 0,
+      "Mar": 8,
+      "Aug": 1
+    },
+    "FollowersInMillions": 88.85,
+    "EarningsInMillionUSD": 32.98,
+    "CollaboratedWith": [
+      "Young Groove",
+      "MC Harmony",
+      "DJ Beat"
+    ]
+  },
+  {
+    "Artist": "Professor Storm",
+    "Region": "Asia",
+    "Genre": "Hip Hop",
+    "MonthlyConcerts": {
+      "Oct": 6,
+      "Sep": 6,
+      "May": 5,
+      "Apr": 9,
+      "Jan": 1,
+      "Mar": 7,
+      "Jul": 2
+    },
+    "FollowersInMillions": 99.29,
+    "EarningsInMillionUSD": 27.16,
+    "CollaboratedWith": [
+      "Big Groove",
+      "The Blaze",
+      "Dr. Groove",
+      "Lil Rhythm",
+      "DJ Bass",
+      "The Harmony"
+    ]
+  },
+  {
+    "Artist": "Lil Echo",
+    "Region": "Europe",
+    "Genre": "Rock",
+    "MonthlyConcerts": {
+      "Jan": 15,
+      "Apr": 9,
+      "Aug": 15,
+      "Sep": 5
+    },
+    "FollowersInMillions": 98.91,
+    "EarningsInMillionUSD": 45.11,
+    "CollaboratedWith": [
+      "The Echo",
+      "Lil Blaze",
+      "MC Blaze",
+      "Young Bass"
+    ]
+  },
+  {
+    "Artist": "Big Echo",
+    "Region": "Oceania",
+    "Genre": "Jazz",
+    "MonthlyConcerts": {
+      "Oct": 14,
+      "Jul": 3,
+      "Sep": 4,
+      "Aug": 14,
+      "Jan": 2,
+      "May": 11,
+      "Dec": 0,
+      "Jun": 6,
+      "Feb": 6,
+      "Mar": 7,
+      "Apr": 0
+    },
+    "FollowersInMillions": 44.98,
+    "EarningsInMillionUSD": 5.36,
+    "CollaboratedWith": [
+      "Big Groove",
+      "Lil Blaze",
+      "The Blaze",
+      "Dr. Vibe",
+      "Big Vibe"
+    ]
+  },
+  {
+    "Artist": "The Groove",
+    "Region": "Asia",
+    "Genre": "Reggae",
+    "MonthlyConcerts": {
+      "Feb": 13,
+      "Dec": 0,
+      "Oct": 5,
+      "Nov": 9,
+      "May": 0,
+      "Jun": 13,
+      "Mar": 2,
+      "Jul": 8,
+      "Jan": 1,
+      "Sep": 3,
+      "Apr": 11
+    },
+    "FollowersInMillions": 43.89,
+    "EarningsInMillionUSD": 17.24,
+    "CollaboratedWith": [
+      "Professor Flow",
+      "Dr. Harmony",
+      "MC Beat",
+      "Big Echo",
+      "Professor Harmony"
+    ]
+  },
+  {
+    "Artist": "Lady Bass",
+    "Region": "Oceania",
+    "Genre": "Folk",
+    "MonthlyConcerts": {
+      "Feb": 6,
+      "Jul": 2,
+      "Aug": 10,
+      "May": 4
+    },
+    "FollowersInMillions": 10.36,
+    "EarningsInMillionUSD": 6.7,
+    "CollaboratedWith": [
+      "Professor Rhythm",
+      "Lil Vibe",
+      "Dr. Vibe",
+      "Young Harmony",
+      "Big Harmony"
+    ]
+  }
+]

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Explorer Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="https://d3js.org/d3.v7.min.js"></script>
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+    <div id="dashboard">
+        <header class="dashboard-header">
+            <div class="header-content">
+                <h1><span class="header-icon" aria-hidden="true">📊</span> Interactive Data Dashboard</h1>
+                <p class="header-subtitle">Upload your JSON data and explore with beautiful, interactive charts.</p>
+                <div class="file-upload-bar">
+                    <input type="file" id="jsonFile" accept=".json" aria-label="Upload JSON file">
+                    <button id="loadData" aria-label="Load selected JSON data">Load Data</button>
+                </div>
+            </div>
+        </header>
+        <section id="data-summary" class="summary-card" style="display:none;">
+            <div class="summary-header">
+                <span class="summary-icon" aria-hidden="true">🗂️</span>
+                <div>
+                    <h2>Data Summary</h2>
+                    <div id="summary-content" role="region" aria-live="polite"></div>
+                </div>
+            </div>
+        </section>
+        <section id="visualization-grid">
+            <div class="visualization" id="radialBarChart">
+                <div class="viz-header">
+                    <h2>Radial Bar Chart</h2>
+                    <button class="zoom-in-btn" title="Zoom In" aria-label="Zoom in">+</button>
+                    <button class="zoom-out-btn" title="Zoom Out" aria-label="Zoom out">−</button>
+                    <button class="reset-btn" title="Reset View" aria-label="Reset view">🏠</button>
+                    <button class="fullscreen-btn" title="Toggle Fullscreen" aria-label="Toggle fullscreen">⛶</button>
+                </div>
+                <div class="feature-selectors">
+                    <label for="radial-category">Category</label>
+                    <select id="radial-category" aria-required="true" aria-describedby="radial-category-desc"></select>
+                    <span id="radial-category-desc" class="visually-hidden">Select a categorical field for the radial bar chart</span>
+                    <label for="radial-value">Value</label>
+                    <select id="radial-value" aria-required="true" aria-describedby="radial-value-desc"></select>
+                    <span id="radial-value-desc" class="visually-hidden">Select a numerical field for the radial bar chart</span>
+                    <button id="generateRadialBtn" aria-label="Generate radial bar chart">Generate Visualization</button>
+                </div>
+                <div class="chart radial-bar-container" role="figure" aria-label="Radial bar chart"></div>
+            </div>
+            <div class="visualization" id="chordDiagram">
+                <div class="viz-header">
+                    <h2>Chord Diagram</h2>
+                    <button class="zoom-in-btn" title="Zoom In" aria-label="Zoom in">+</button>
+                    <button class="zoom-out-btn" title="Zoom Out" aria-label="Zoom out">−</button>
+                    <button class="reset-btn" title="Reset View" aria-label="Reset view">🏠</button>
+                    <button class="fullscreen-btn" title="Toggle Fullscreen" aria-label="Toggle fullscreen">⛶</button>
+                </div>
+                <div class="feature-selectors">
+                    <label for="chord-source">Source</label>
+                    <select id="chord-source" aria-required="true" aria-describedby="chord-source-desc"></select>
+                    <span id="chord-source-desc" class="visually-hidden">Select a categorical field for chord source</span>
+                    <label for="chord-target">Target</label>
+                    <select id="chord-target" aria-required="true" aria-describedby="chord-target-desc"></select>
+                    <span id="chord-target-desc" class="visually-hidden">Select a categorical field for chord target</span>
+                    <label for="chord-value">Value</label>
+                    <select id="chord-value" aria-required="true" aria-describedby="chord-value-desc"></select>
+                    <span id="chord-value-desc" class="visually-hidden">Select a numerical field for chord value</span>
+                    <button id="generateChordBtn" aria-label="Generate chord diagram">Generate Visualization</button>
+                </div>
+                <div class="chart chord-diagram-container" role="figure" aria-label="Chord diagram"></div>
+            </div>
+            <div class="visualization" id="forceDirectedGraph">
+                <div class="viz-header">
+                    <h2>Force-Directed Graph</h2>
+                    <button class="zoom-in-btn" title="Zoom In" aria-label="Zoom in">+</button>
+                    <button class="zoom-out-btn" title="Zoom Out" aria-label="Zoom out">−</button>
+                    <button class="reset-btn" title="Reset View" aria-label="Reset view">🏠</button>
+                    <button class="fullscreen-btn" title="Toggle Fullscreen" aria-label="Toggle fullscreen">⛶</button>
+                </div>
+                <div class="feature-selectors">
+                    <label for="force-source">Source</label>
+                    <select id="force-source" aria-required="true" aria-describedby="force-source-desc"></select>
+                    <span id="force-source-desc" class="visually-hidden">Select a categorical field for graph source</span>
+                    <label for="force-target">Target</label>
+                    <select id="force-target" aria-required="true" aria-describedby="force-target-desc"></select>
+                    <span id="force-target-desc" class="visually-hidden">Select a categorical field for graph target</span>
+                    <label for="force-value">Value</label>
+                    <select id="force-value" aria-required="true" aria-describedby="force-value-desc"></select>
+                    <span id="force-value-desc" class="visually-hidden">Select a numerical field for graph value</span>
+                    <button id="generateForceBtn" aria-label="Generate force-directed graph">Generate Visualization</button>
+                </div>
+                <div class="chart force-directed-container" role="figure" aria-label="Force-directed graph"></div>
+            </div>
+            <div class="visualization" id="sunburstChart">
+                <div class="viz-header">
+                    <h2>Sunburst Chart</h2>
+                    <button class="zoom-in-btn" title="Zoom In" aria-label="Zoom in">+</button>
+                    <button class="zoom-out-btn" title="Zoom Out" aria-label="Zoom out">−</button>
+                    <button class="reset-btn" title="Reset View" aria-label="Reset view">🏠</button>
+                    <button class="fullscreen-btn" title="Toggle Fullscreen" aria-label="Toggle fullscreen">⛶</button>
+                </div>
+                <div class="feature-selectors">
+                    <label for="sunburst-hierarchy">Hierarchy (select up to 3)</label>
+                    <select id="sunburst-hierarchy" multiple aria-required="true" aria-multiselectable="true" aria-describedby="sunburst-hierarchy-desc"></select>
+                    <span id="sunburst-hierarchy-desc" class="visually-hidden">Select up to 3 categorical fields for the sunburst hierarchy</span>
+                    <label for="sunburst-value">Value</label>
+                    <select id="sunburst-value" aria-describedby="sunburst-value-desc"></select>
+                    <span id="sunburst-value-desc" class="visually-hidden">Select a numerical field for the sunburst value (optional)</span>
+                    <button id="generateSunburstBtn" aria-label="Generate sunburst chart">Generate Visualization</button>
+                </div>
+                <div class="chart sunburst-chart-container" role="figure" aria-label="Sunburst chart"></div>
+            </div>
+        </section>
+    </div>
+    <script defer src="js/dashboard.js"></script>
+    <script defer src="js/radial_bar.js"></script>
+    <script defer src="js/chord.js"></script>
+    <script defer src="js/force_directed.js"></script>
+    <script defer src="js/sunburst.js"></script>
+</body>
+</html>
